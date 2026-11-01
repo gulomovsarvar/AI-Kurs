@@ -27,7 +27,8 @@ export const EkspertMotion: React.FC<ReelProps> = ({ meta, captions, plan }) => 
           <SubscribeCard {...p.cta} />
         </Between>
       ) : null}
-      {p.captions !== false ? <Captions chunks={captions} top={MOTION_CAPTION_TOP} theme="motion" /> : null}
+      {/* kinetik matn bilan takrorlanmasin: pastki subtitr faqat plan.captions === true bo'lsa */}
+      {p.captions === true ? <Captions chunks={captions} top={MOTION_CAPTION_TOP} theme="motion" /> : null}
       <EndFade />
       <SfxLayer list={p.sfx} />
     </AbsoluteFill>

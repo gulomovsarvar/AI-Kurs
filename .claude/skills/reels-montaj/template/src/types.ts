@@ -53,7 +53,7 @@ export type MotionPlan = {
   broll?: BRoll[];
   cta?: { at: number; username: string; name?: string; avatar?: string };
   sfx?: Sfx[];
-  captions?: boolean;
+  captions?: boolean; // sukut: false (kinetik matn bor); true = pastki so'zma-so'z subtitr ham chiqadi
 };
 
 export type Plan = TutorialPlan | MotionPlan;

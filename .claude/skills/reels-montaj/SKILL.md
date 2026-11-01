@@ -86,6 +86,7 @@ Transkriptni o'qib, vaqtlarni **soniyada** `words.json` dagi so'zlarga bog'lab y
   "cta": { "at": 26.0, "username": "@sarvar", "name": "Sarvar" },
   "sfx": [{ "at": 0.2, "file": "pop.wav", "vol": 0.22 }] }
 ```
+- **Bitta matn qatlami**: ekspert-motion'da pastki so'zma-so'z subtitr sukut bo'yicha O'CHIQ, chunki kinetik matn bilan ikki marta ko'rinadi. Foydalanuvchi so'rasagina `"captions": true` qo'y.
 - Hook (birinchi 0,5 s): plashkali savol yoki raqam hisoblagich.
 - Kinetik matn turlari: `plashka`, `katta`, `hisob`, `royxat`, `eski-yangi`, `arvoh`. `y` bilan joyini o'zgartir (yuzni to'smasin; odatda 300–700).
 - B-roll: `video`/`image` uchun faylni `montaj\public\broll\` ga nusxala (`D:\motion uchun` dan — `motion/KATALOG.md` dagi "B-roll nomzodi"); `grafik` — qora gradient + grid + laym plashka, fayl kerak emas.
