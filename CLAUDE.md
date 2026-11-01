@@ -15,3 +15,4 @@ Windows, PowerShell va VS Code'dan foydalanaman.
 - git push'ni faqat men aniq so'raganimda qil.
 - Fayl o'chirishdan oldin doim so'ra.
 - Har javob oxirida men uchun bitta kichik mashq taklif qil.
+- Sarvar avtomatlashtirishni afzal ko'radi. Ishni o'zing bajar, tushuntirishni qisqa qil, faqat nazorat uchun muhim narsalarni ayt.
