@@ -10,6 +10,7 @@ AI agentlar qurish va bizneslarni avtomatlashtirishni noldan o'rganish.
 - [x] 4-dars: GitHub
 - [x] 5-dars: Claude Code
 - [x] 6-dars: CLAUDE.md
+- [x] 7-dars: 1-SKILL
 
 ## Muhim qoida
 **Modelning xotirasi yo'q.** Har safar butun suhbat qayta yuboriladi.
