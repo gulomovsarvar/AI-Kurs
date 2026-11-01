@@ -70,6 +70,9 @@ def probe(p: Path) -> dict:
 def main():
     root = Path(sys.argv[1] if len(sys.argv) > 1 else "D:/motion uchun")
     out_dir = Path(__file__).resolve().parent
+    # B-roll mazmuni qo'lda yoziladi (ko'z bilan ko'rib): fayl nomi yoki papka nomi -> tavsif
+    tf = out_dir / "broll_tavsif.json"
+    tavsif = json.loads(tf.read_text(encoding="utf-8")) if tf.exists() else {}
     fayllar = [p for p in root.rglob("*") if p.is_file() and p.name != ".DS_Store"]
     with ThreadPoolExecutor(8) as ex:
         info = dict(zip(fayllar, ex.map(lambda p: probe(p) if p.suffix.lower() in AUDIO | VIDEO else {}, fayllar)))
@@ -87,7 +90,8 @@ def main():
                         "litsenziya": "Epidemic Sound (obuna kerak)" if p.name.startswith("ES_") else "noma'lum"})
         elif ext in VIDEO | RASM:
             media.append({"vazifa": MEDIA.get(top, "boshqa"), "fayl": p.name, "yol": str(p).replace("\\", "/"),
-                          "tur": "video" if ext in VIDEO else "rasm", "dur": i.get("dur", 0), "olcham": i.get("wh", "")})
+                          "tur": "video" if ext in VIDEO else "rasm", "dur": i.get("dur", 0), "olcham": i.get("wh", ""),
+                          "tavsif": tavsif.get(p.name) or tavsif.get(rel.parts[0], "")})
 
     (out_dir / "katalog.json").write_text(json.dumps({"manba": str(root), "sfx": sfx, "media": media}, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -101,9 +105,11 @@ def main():
         top3 = ", ".join(f"`{s['fayl']}` ({s['dur']} s)" for s in [s for s in g if 0 < s["dur"] < 2][:3])
         L.append(f"| {r} | {ROL_TAVSIF.get(r, '—')} | {len(g)} | {top3 or '—'} |")
     L += ["", f"Jami SFX: {len(sfx)}. `ES_` bilan boshlanganlar Epidemic Sound'dan — obunasiz tijoriy ishlatmang.", "",
-          "## B-roll va reference media", "", "| Vazifa | Fayl | Tur | Davomiylik | O'lcham |", "|---|---|---|---|---|"]
+          "## B-roll va reference media", "",
+          "Montajda avval shu ro'yxatdan mazmuni mos B-roll tanlanadi; grafik B-roll faqat zaxira. Tavsiflar: `motion/broll_tavsif.json`.", "",
+          "| Vazifa | Fayl | Tur | Davomiylik | O'lcham | Mazmuni |", "|---|---|---|---|---|---|"]
     for m in media:
-        L.append(f"| {m['vazifa']} | `{m['fayl']}` | {m['tur']} | {m['dur'] or '—'} | {m['olcham'] or '—'} |")
+        L.append(f"| {m['vazifa']} | `{m['fayl']}` | {m['tur']} | {m['dur'] or '—'} | {m['olcham'] or '—'} | {m['tavsif'] or '—'} |")
     L += ["", "## To'liq SFX ro'yxati", ""]
     for r in rollar:
         L += [f"### {r}", "", "| Fayl | Davomiylik, s | Yo'l |", "|---|---|---|"]

@@ -33,7 +33,7 @@ export type TutorialPlan = {
 export type Kinetic = {
   at: number;
   out: number;
-  type: "plashka" | "katta" | "hisob" | "royxat" | "eski-yangi" | "arvoh";
+  type: "katta" | "plashka" | "hisob" | "royxat" | "eski-yangi" | "arvoh"; // katta: har gapda bitta, ekran enining ~82%; plashka: ikkinchi darajali
   main?: string; // kalit so'z (katta)
   sub?: string; // yordamchi so'z (kichik)
   from?: number; // hisob: boshlang'ich son
@@ -43,6 +43,7 @@ export type Kinetic = {
   items?: string[]; // royxat
   old?: string; // eski-yangi: eski so'z
   y?: number; // vertikal joy, px (default 560)
+  rang?: "oq" | "laym"; // katta/hisob rangi (katta: default oq, hisob: default laym)
 };
 export type BRoll = { a: number; b: number; kind: "video" | "image" | "grafik"; src?: string; from?: number; main?: string; sub?: string };
 

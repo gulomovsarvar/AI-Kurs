@@ -73,25 +73,35 @@ Transkriptni o'qib, vaqtlarni **soniyada** `words.json` dagi so'zlarga bog'lab y
 { "format": "ekspert-motion",
   "punch": [{ "a": 4.1, "b": 6.0, "scale": 1.18 }],
   "kinetic": [
-    { "at": 0.2, "out": 2.4, "type": "plashka", "sub": "siz hali ham", "main": "qo'lda?" },
+    { "at": 0.2, "out": 2.4, "type": "katta", "sub": "siz hali ham", "main": "QO'LDAMI?", "rang": "laym" },
+    { "at": 2.4, "out": 3.6, "type": "plashka", "sub": "har kuni", "main": "3 SOAT" },
     { "at": 6.0, "out": 8.5, "type": "hisob", "sub": "daromad", "from": 20, "to": 4000, "prefix": "$" },
     { "at": 9.0, "out": 12.0, "type": "royxat", "items": ["MUAMMO", "YECHIM", "NATIJA"] },
     { "at": 12.5, "out": 15.0, "type": "eski-yangi", "old": "QO'LDA", "main": "AVTOMAT" },
     { "at": 15.0, "out": 17.0, "type": "arvoh", "main": "AI" }
   ],
   "broll": [
-    { "a": 2.4, "b": 4.1, "kind": "grafik", "sub": "har kuni", "main": "3 SOAT" },
-    { "a": 17.0, "b": 19.5, "kind": "video", "src": "broll/klip.mp4", "from": 2 }
+    { "a": 17.0, "b": 19.5, "kind": "video", "src": "broll/klip.mp4", "from": 2 },
+    { "a": 21.0, "b": 22.0, "kind": "grafik", "sub": "asosida", "main": "MEZON" }
   ],
-  "cta": { "at": 26.0, "username": "@sarvar", "name": "Sarvar" },
+  "cta": { "at": 26.0, "username": "@USERNAME", "name": "Sarvar" },
   "sfx": [{ "at": 0.2, "file": "pop.wav", "vol": 0.22 }] }
 ```
 - **Bitta matn qatlami**: ekspert-motion'da pastki so'zma-so'z subtitr sukut bo'yicha O'CHIQ, chunki kinetik matn bilan ikki marta ko'rinadi. Foydalanuvchi so'rasagina `"captions": true` qo'y.
-- Hook (birinchi 0,5 s): plashkali savol yoki raqam hisoblagich.
-- Kinetik matn turlari: `plashka`, `katta`, `hisob`, `royxat`, `eski-yangi`, `arvoh`. `y` bilan joyini o'zgartir (yuzni to'smasin; odatda 300–700).
-- B-roll: `video`/`image` uchun faylni `montaj\public\broll\` ga nusxala (`D:\motion uchun` dan — `motion/KATALOG.md` dagi "B-roll nomzodi"); `grafik` — qora gradient + grid + laym plashka, fayl kerak emas.
+- **Ierarxiya** (eng muhim qoida):
+  - Har gapda **bitta `katta`** so'z: avtomatik ekran kengligining ~82% iga moslanadi (70–90%), qalin condensed, `"rang": "oq"` (default) yoki `"laym"`. Qisqa so'z ham to'liq kenglikni egallaydi.
+  - `plashka` — faqat **ikkinchi darajali** kalit so'zlar (bitta gapda katta so'zdan keyin).
+  - `sub` (yordamchi so'zlar) kod tomonidan kamida 42px (`SUB_MIN`), hozir 46px.
+- **Hisoblagich** (`hisob`): sanash 0,4–1,2 s, keyin oxirgi qiymatda **kamida 0,8 s** turadi, keyin yo'qoladi. `out - at` kamida 1,5 s bo'lsin; qisqa bo'lsa kod `out` ni o'zi uzaytiradi (keyingi matn bilan ustma-ust tushmasligini tekshir). Eni oxirgi qiymat bo'yicha moslanadi.
+- Hook (birinchi 0,5 s): `katta` savol yoki raqam hisoblagich.
+- Kinetik matn turlari: `katta`, `plashka`, `hisob`, `royxat`, `eski-yangi`, `arvoh`. `y` bilan joyini o'zgartir — **yuzni to'smasin**: avval kontakt-varaqda yuz qayerdaligini ko'r (to'liq bo'y kadrda odatda y 900–1100).
+- **B-roll tartibi**:
+  1. Avval `motion/KATALOG.md` → "B-roll nomzodi" qatorlaridan **mazmuni** gapga mosini tanla ("Mazmuni" ustuni; noaniq bo'lsa kontakt-varaq yasab ko'r). Faylni `montaj\public\broll\` ga nusxala, `kind: "video"` / `"image"`.
+  2. Mos klip bo'lmasa — **zaxira**: `kind: "grafik"` (qora gradient + grid + katta laym so'z).
+  3. Yangi klipni ko'rib chiqqach, mazmunini `motion/broll_tavsif.json` ga yoz va `python -I motion\katalog.py "D:/motion uchun"` ni qayta ishga tushir.
+- **Obuna kartochkasi**: foydalanuvchi username bermagan bo'lsa `"username": "@USERNAME"` qo'y va javobda "o'zingiznikiga almashtiring" deb eslat.
 - Brend tasvirlarini (birovning logotipi, mashhur OS fonlari) nusxalama.
-- "Odam matn oldida" (chuqurlik) effekti segmentatsiya talab qiladi — hozircha `arvoh` (xira katta so'z) bilan almashtirilgan.
+- **"orqada" (katta so'z odam orqasida)** — hali qilinmagan, odamni fondan ajratish (matting) kerak. Rejalashtirilgan yo'l: Robust Video Matting (ONNX, CPU) bilan `public/person.webm` (alfa kanalli) yasash → Remotion'da qatlamlar: talk.mp4 → katta so'z → person.webm (bir xil punch-in bilan). Tasdiqlanmaguncha `arvoh` (xira katta so'z) ishlatiladi.
 
 ## 4. SFX (ikkala format)
 - Manba: `motion/KATALOG.md` (rollar: whoosh, pop, click, typing, tick, riser, glitch...). Katalog yo'q yoki eskirgan bo'lsa: `python -I motion\katalog.py "D:/motion uchun"`.

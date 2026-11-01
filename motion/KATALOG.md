@@ -10,11 +10,11 @@ Mashina uchun versiyasi: `motion/katalog.json`. Asl fayllar joyida qoladi; monta
 | boshqa | — | 232 | `_ mac OS 7.wav` (0.4 s), `MA_Tuttkile_InterfaceRecycleBin_4.wav` (0.43 s), `_ floor selection button.wav` (0.51 s) |
 | whoosh | sahna/qadam almashganda | 122 | `Whistle Fast.wav` (0.29 s), `Woosh Effect 8.wav` (0.31 s), `Whoosh Fast High.wav` (0.34 s) |
 | click | tugma, kursor, obuna tugmasi | 64 | `ES_Bubble Effect 03 - Epidemic Sound.mp3` (0.52 s), `Button Click Sound Effect.wav` (0.54 s), `App Click 1.wav` (0.7 s) |
-| tabiat | — | 42 | `MA_BadAtmospheric_WaterImpact_9.wav` (1.05 s), `MA_BadAtmospheric_WaterImpact_1.wav` (1.4 s), `MA_BadAtmospheric_WaterImpact_2.wav` (1.4 s) |
 | glitch | keskin o'tish | 42 | `_ Glitch 19.wav` (0.33 s), `_ Glitch 31.wav` (0.33 s), `_ Glitch 22.wav` (0.4 s) |
+| tabiat | — | 42 | `MA_BadAtmospheric_WaterImpact_9.wav` (1.05 s), `MA_BadAtmospheric_WaterImpact_1.wav` (1.4 s), `MA_BadAtmospheric_WaterImpact_2.wav` (1.4 s) |
 | typing | matn yozilayotganda | 30 | `MA_Originals_KeyboardTypingLoops_5.wav` (0.95 s), `HUD Text (2).wav` (0.96 s), `HUD Text (4).wav` (1.0 s) |
-| pop | matn yoki kartochka paydo bo'lganda | 15 | `ES_Pops, Wobble, Bloop, Pops - Epidemic Sound.mp3` (0.25 s), `Cute Pops Sound Effect.wav` (0.71 s), `Pop 3.mp4` (0.75 s) |
 | stress | — | 15 | — |
+| pop | matn yoki kartochka paydo bo'lganda | 15 | `ES_Pops, Wobble, Bloop, Pops - Epidemic Sound.mp3` (0.25 s), `Cute Pops Sound Effect.wav` (0.71 s), `Pop 3.mp4` (0.75 s) |
 | tone | urg'u tovushi | 14 | — |
 | riser | kulminatsiyadan oldin | 12 | — |
 | paper | qog'oz/varaq | 5 | `_ _a box of paper clips fell.wav` (0.52 s), `_ paper cut with a blade on the table 3.wav` (0.8 s), `_ paper cut with a blade on the table 2.wav` (1.97 s) |
@@ -24,41 +24,43 @@ Jami SFX: 596. `ES_` bilan boshlanganlar Epidemic Sound'dan — obunasiz tijoriy
 
 ## B-roll va reference media
 
-| Vazifa | Fayl | Tur | Davomiylik | O'lcham |
-|---|---|---|---|---|
-| reference (ilova/UI namunasi) | `2LH4znoDfgc_kA.mp4` | video | 16.55 | 720x1280 |
-| reference (ilova/UI namunasi) | `SNX7-BPH_dbaPA.mp4` | video | 7.3 | 720x1278 |
-| reference (ilova/UI namunasi) | `TDDymFUXkjNRaQ.mp4` | video | 82.88 | 736x414 |
-| reference (ilova/UI namunasi) | `VNm6JjZDWUbheg.mp4` | video | 17.41 | 720x1280 |
-| reference (ilova/UI namunasi) | `VuEd8S0uDr9hDw.mp4` | video | 19.83 | 720x1280 |
-| reference (ilova/UI namunasi) | `yvRv6o7xTy7CCg.mp4` | video | 9.92 | 720x1280 |
-| B-roll nomzodi | `VID_20260921_151726.mp4` | video | 18.11 | 1920x1080 |
-| reference (uslub namunasi, montajga qo'yilmaydi) | `lkaBnJ62prV8tA.mp4` | video | 19.31 | 720x1280 |
-| reference (uslub namunasi, montajga qo'yilmaydi) | `nVupB5M2BR0diQ.mp4` | video | 7.97 | 720x1280 |
-| reference (uslub namunasi, montajga qo'yilmaydi) | `O33IdxJ8F8ytwA.mp4` | video | 45.35 | 720x1280 |
-| reference (uslub namunasi, montajga qo'yilmaydi) | `rnfn9aSUWE6uCQ.mp4` | video | 18.13 | 720x1280 |
-| reference (uslub namunasi, montajga qo'yilmaydi) | `scntl4Ly_XvpNw.mp4` | video | 17.87 | 720x1280 |
-| reference (uslub namunasi, montajga qo'yilmaydi) | `svJ841geA8x9NQ.mp4` | video | 19.11 | 720x1280 |
-| reference (uslub namunasi, montajga qo'yilmaydi) | `utRzgKLRTLsilQ.mp4` | video | 77.65 | 720x1280 |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-02.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-17.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-18.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-19.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-20.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-25.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-27.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-28.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-29.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-31.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-32.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-34 (2).jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-34.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-37.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-39.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-40.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-41 (2).jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-41.jpg` | rasm | — | — |
-| B-roll nomzodi (rasm) | `video_2026-10-23_15-49-10.mp4` | video | 29.47 | 352x640 |
+Montajda avval shu ro'yxatdan mazmuni mos B-roll tanlanadi; grafik B-roll faqat zaxira. Tavsiflar: `motion/broll_tavsif.json`.
+
+| Vazifa | Fayl | Tur | Davomiylik | O'lcham | Mazmuni |
+|---|---|---|---|---|---|
+| reference (ilova/UI namunasi) | `2LH4znoDfgc_kA.mp4` | video | 16.55 | 720x1280 | — |
+| reference (ilova/UI namunasi) | `SNX7-BPH_dbaPA.mp4` | video | 7.3 | 720x1278 | — |
+| reference (ilova/UI namunasi) | `TDDymFUXkjNRaQ.mp4` | video | 82.88 | 736x414 | — |
+| reference (ilova/UI namunasi) | `VNm6JjZDWUbheg.mp4` | video | 17.41 | 720x1280 | — |
+| reference (ilova/UI namunasi) | `VuEd8S0uDr9hDw.mp4` | video | 19.83 | 720x1280 | — |
+| reference (ilova/UI namunasi) | `yvRv6o7xTy7CCg.mp4` | video | 9.92 | 720x1280 | — |
+| B-roll nomzodi | `VID_20260921_151726.mp4` | video | 18.11 | 1920x1080 | tikuvchilik andozalari (o'lchamlar 42-54) polda, qaychi — mavzu: kasb, hunar, tikuvchilik, o'qish |
+| reference (uslub namunasi, montajga qo'yilmaydi) | `lkaBnJ62prV8tA.mp4` | video | 19.31 | 720x1280 | — |
+| reference (uslub namunasi, montajga qo'yilmaydi) | `nVupB5M2BR0diQ.mp4` | video | 7.97 | 720x1280 | — |
+| reference (uslub namunasi, montajga qo'yilmaydi) | `O33IdxJ8F8ytwA.mp4` | video | 45.35 | 720x1280 | — |
+| reference (uslub namunasi, montajga qo'yilmaydi) | `rnfn9aSUWE6uCQ.mp4` | video | 18.13 | 720x1280 | — |
+| reference (uslub namunasi, montajga qo'yilmaydi) | `scntl4Ly_XvpNw.mp4` | video | 17.87 | 720x1280 | — |
+| reference (uslub namunasi, montajga qo'yilmaydi) | `svJ841geA8x9NQ.mp4` | video | 19.11 | 720x1280 | — |
+| reference (uslub namunasi, montajga qo'yilmaydi) | `utRzgKLRTLsilQ.mp4` | video | 77.65 | 720x1280 | — |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-02.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-17.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-18.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-19.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-20.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-25.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-27.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-28.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-29.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-31.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-32.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-34 (2).jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-34.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-37.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-39.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-40.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-41 (2).jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `photo_2026-10-23_15-49-41.jpg` | rasm | — | — | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
+| B-roll nomzodi (rasm) | `video_2026-10-23_15-49-10.mp4` | video | 29.47 | 352x640 | to'y sarpolari: savatlarda kiyim, mevalar, gullar — mavzu: to'y, sovg'a, an'ana |
 
 ## To'liq SFX ro'yxati
 
@@ -495,53 +497,6 @@ Jami SFX: 596. `ES_` bilan boshlanganlar Epidemic Sound'dan — obunasiz tijoriy
 | Rounded Ok Button Sound.mp3 | 13.31 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Rounded Ok Button Sound.mp3` |
 | clickbutton.mp3 | 40.0 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/clickbutton.mp3` |
 
-### tabiat
-
-| Fayl | Davomiylik, s | Yo'l |
-|---|---|---|
-| MA_BadAtmospheric_WaterImpact_9.wav | 1.05 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_9.wav` |
-| MA_BadAtmospheric_WaterImpact_1.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_1.wav` |
-| MA_BadAtmospheric_WaterImpact_2.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_2.wav` |
-| MA_BadAtmospheric_WaterImpact_4.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_4.wav` |
-| MA_BadAtmospheric_WaterImpact_5.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_5.wav` |
-| MA_BadAtmospheric_WaterImpact_6.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_6.wav` |
-| MA_BadAtmospheric_WaterImpact_7.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_7.wav` |
-| MA_BadAtmospheric_WaterImpact_8.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_8.wav` |
-| MA_BadAtmospheric_WaterImpact_3.wav | 2.09 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_3.wav` |
-| MA_BadAtmospheric_WaterImpact_10.wav | 4.19 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_10.wav` |
-| _ Wind 1.wav | 16.79 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 1.wav` |
-| _ Wind 2.wav | 16.79 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 2.wav` |
-| _ Wind 3.wav | 16.79 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 3.wav` |
-| _ Wind 4.wav | 16.79 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 4.wav` |
-| _ Wind 5.wav | 16.79 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 5.wav` |
-| _ Wind 6.wav | 19.37 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 6.wav` |
-| _ Nature 1.wav | 23.05 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 1.wav` |
-| _ Nature 10.wav | 23.05 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 10.wav` |
-| _ Nature 11.wav | 23.05 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 11.wav` |
-| _ Nature 8.wav | 23.05 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 8.wav` |
-| _ Nature 13.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 13.wav` |
-| _ Nature 2.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 2.wav` |
-| _ Nature 3.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 3.wav` |
-| _ Nature 4.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 4.wav` |
-| _ Nature 5.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 5.wav` |
-| _ Nature 6.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 6.wav` |
-| _ Nature 7.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 7.wav` |
-| _ Nature 9.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 9.wav` |
-| MA_SFXpecial_Christmas Wind_Loopable_01.wav | 30.0 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Christmas-wind-2085031/MA_SFXpecial_Christmas Wind_Loopable_01.wav` |
-| MA_SFXpecial_Christmas Wind_Loopable_03.wav | 30.0 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Christmas-wind-2085031/MA_SFXpecial_Christmas Wind_Loopable_03.wav` |
-| MA_Beison_Summer_and_Spring_Birdsong_4.mp3 | 34.54 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_4.mp3` |
-| MA_Beison_Summer_and_Spring_Birdsong_4.wav | 34.54 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_4.wav` |
-| MA_SFXpecial_Christmas Wind_Loopable_02.wav | 35.0 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Christmas-wind-2085031/MA_SFXpecial_Christmas Wind_Loopable_02.wav` |
-| MA_Beison_Summer_and_Spring_Birdsong_2.mp3 | 48.23 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_2.mp3` |
-| MA_Beison_Summer_and_Spring_Birdsong_2.wav | 48.23 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_2.wav` |
-| MA_Beison_Flowing_River_with_Swirls_3.mp3 | 59.54 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_3.mp3` |
-| MA_Beison_Flowing_River_with_Swirls_3.wav | 59.54 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_3.wav` |
-| MA_Beison_Flowing_River_with_Swirls_2.mp3 | 65.62 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_2.mp3` |
-| MA_Beison_Flowing_River_with_Swirls_2.wav | 65.62 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_2.wav` |
-| MA_Beison_Flowing_River_with_Swirls_1.mp3 | 99.27 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_1.mp3` |
-| MA_Beison_Summer_and_Spring_Birdsong_3_with_Calm_Wind.mp3 | 109.54 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_3_with_Calm_Wind.mp3` |
-| MA_Beison_Summer_and_Spring_Birdsong_1.mp3 | 111.54 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_1.mp3` |
-
 ### glitch
 
 | Fayl | Davomiylik, s | Yo'l |
@@ -589,6 +544,53 @@ Jami SFX: 596. `ES_` bilan boshlanganlar Epidemic Sound'dan — obunasiz tijoriy
 | MA_BadAtmospheric_TechnologicFuturisticSound_8.wav | 5.58 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/MA_BadAtmospheric_TechnologicFuturisticSounds/MA_BadAtmospheric_TechnologicFuturisticSound_8.wav` |
 | MA_BadAtmospheric_TechnologicFuturisticSound_4.wav | 6.98 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/MA_BadAtmospheric_TechnologicFuturisticSounds/MA_BadAtmospheric_TechnologicFuturisticSound_4.wav` |
 
+### tabiat
+
+| Fayl | Davomiylik, s | Yo'l |
+|---|---|---|
+| MA_BadAtmospheric_WaterImpact_9.wav | 1.05 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_9.wav` |
+| MA_BadAtmospheric_WaterImpact_1.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_1.wav` |
+| MA_BadAtmospheric_WaterImpact_2.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_2.wav` |
+| MA_BadAtmospheric_WaterImpact_4.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_4.wav` |
+| MA_BadAtmospheric_WaterImpact_5.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_5.wav` |
+| MA_BadAtmospheric_WaterImpact_6.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_6.wav` |
+| MA_BadAtmospheric_WaterImpact_7.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_7.wav` |
+| MA_BadAtmospheric_WaterImpact_8.wav | 1.4 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_8.wav` |
+| MA_BadAtmospheric_WaterImpact_3.wav | 2.09 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_3.wav` |
+| MA_BadAtmospheric_WaterImpact_10.wav | 4.19 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_10.wav` |
+| _ Wind 1.wav | 16.79 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 1.wav` |
+| _ Wind 2.wav | 16.79 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 2.wav` |
+| _ Wind 3.wav | 16.79 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 3.wav` |
+| _ Wind 4.wav | 16.79 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 4.wav` |
+| _ Wind 5.wav | 16.79 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 5.wav` |
+| _ Wind 6.wav | 19.37 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 6.wav` |
+| _ Nature 1.wav | 23.05 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 1.wav` |
+| _ Nature 10.wav | 23.05 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 10.wav` |
+| _ Nature 11.wav | 23.05 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 11.wav` |
+| _ Nature 8.wav | 23.05 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 8.wav` |
+| _ Nature 13.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 13.wav` |
+| _ Nature 2.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 2.wav` |
+| _ Nature 3.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 3.wav` |
+| _ Nature 4.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 4.wav` |
+| _ Nature 5.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 5.wav` |
+| _ Nature 6.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 6.wav` |
+| _ Nature 7.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 7.wav` |
+| _ Nature 9.wav | 23.2 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 9.wav` |
+| MA_SFXpecial_Christmas Wind_Loopable_01.wav | 30.0 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Christmas-wind-2085031/MA_SFXpecial_Christmas Wind_Loopable_01.wav` |
+| MA_SFXpecial_Christmas Wind_Loopable_03.wav | 30.0 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Christmas-wind-2085031/MA_SFXpecial_Christmas Wind_Loopable_03.wav` |
+| MA_Beison_Summer_and_Spring_Birdsong_4.mp3 | 34.54 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_4.mp3` |
+| MA_Beison_Summer_and_Spring_Birdsong_4.wav | 34.54 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_4.wav` |
+| MA_SFXpecial_Christmas Wind_Loopable_02.wav | 35.0 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Christmas-wind-2085031/MA_SFXpecial_Christmas Wind_Loopable_02.wav` |
+| MA_Beison_Summer_and_Spring_Birdsong_2.mp3 | 48.23 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_2.mp3` |
+| MA_Beison_Summer_and_Spring_Birdsong_2.wav | 48.23 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_2.wav` |
+| MA_Beison_Flowing_River_with_Swirls_3.mp3 | 59.54 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_3.mp3` |
+| MA_Beison_Flowing_River_with_Swirls_3.wav | 59.54 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_3.wav` |
+| MA_Beison_Flowing_River_with_Swirls_2.mp3 | 65.62 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_2.mp3` |
+| MA_Beison_Flowing_River_with_Swirls_2.wav | 65.62 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_2.wav` |
+| MA_Beison_Flowing_River_with_Swirls_1.mp3 | 99.27 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_1.mp3` |
+| MA_Beison_Summer_and_Spring_Birdsong_3_with_Calm_Wind.mp3 | 109.54 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_3_with_Calm_Wind.mp3` |
+| MA_Beison_Summer_and_Spring_Birdsong_1.mp3 | 111.54 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_1.mp3` |
+
 ### typing
 
 | Fayl | Davomiylik, s | Yo'l |
@@ -624,26 +626,6 @@ Jami SFX: 596. `ES_` bilan boshlanganlar Epidemic Sound'dan — obunasiz tijoriy
 | Type 7.wav | 6.8 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 7.wav` |
 | _ _spitefully typing.wav | 7.09 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _spitefully typing.wav` |
 
-### pop
-
-| Fayl | Davomiylik, s | Yo'l |
-|---|---|---|
-| ES_Pops, Wobble, Bloop, Pops - Epidemic Sound.mp3 | 0.25 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/ES_Pops, Wobble, Bloop, Pops - Epidemic Sound.mp3` |
-| Cute Pops Sound Effect.wav | 0.71 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Cute Pops Sound Effect.wav` |
-| Pop 3.mp4 | 0.75 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Pop 3.mp4` |
-| Pop 4.mp4 | 1.22 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Pop 4.mp4` |
-| 6.mp4 | 1.52 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/6.mp4` |
-| Pop 2.mp4 | 1.57 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Pop 2.mp4` |
-| 3.mp4 | 1.77 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/3.mp4` |
-| 8.mp4 | 1.85 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/8.mp4` |
-| 2.mp4 | 1.88 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/2.mp4` |
-| 5.mp4 | 2.03 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/5.mp4` |
-| 9.mp4 | 2.05 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/9.mp4` |
-| 7.mp4 | 2.12 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/7.mp4` |
-| 1.mp4 | 2.22 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/1.mp4` |
-| 4.mp4 | 3.75 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/4.mp4` |
-| ES_Popping Sounds With Mouth - Epidemic Sound.mp3 | 6.96 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/Bubbles/ES_Popping Sounds With Mouth - Epidemic Sound.mp3` |
-
 ### stress
 
 | Fayl | Davomiylik, s | Yo'l |
@@ -663,6 +645,26 @@ Jami SFX: 596. `ES_` bilan boshlanganlar Epidemic Sound'dan — obunasiz tijoriy
 | _ Stress 15.wav | 9.68 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 15.wav` |
 | _ Stress 8.wav | 9.68 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 8.wav` |
 | _ Stress 3.wav | 10.29 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 3.wav` |
+
+### pop
+
+| Fayl | Davomiylik, s | Yo'l |
+|---|---|---|
+| ES_Pops, Wobble, Bloop, Pops - Epidemic Sound.mp3 | 0.25 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/ES_Pops, Wobble, Bloop, Pops - Epidemic Sound.mp3` |
+| Cute Pops Sound Effect.wav | 0.71 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Cute Pops Sound Effect.wav` |
+| Pop 3.mp4 | 0.75 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Pop 3.mp4` |
+| Pop 4.mp4 | 1.22 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Pop 4.mp4` |
+| 6.mp4 | 1.52 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/6.mp4` |
+| Pop 2.mp4 | 1.57 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Pop 2.mp4` |
+| 3.mp4 | 1.77 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/3.mp4` |
+| 8.mp4 | 1.85 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/8.mp4` |
+| 2.mp4 | 1.88 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/2.mp4` |
+| 5.mp4 | 2.03 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/5.mp4` |
+| 9.mp4 | 2.05 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/9.mp4` |
+| 7.mp4 | 2.12 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/7.mp4` |
+| 1.mp4 | 2.22 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/1.mp4` |
+| 4.mp4 | 3.75 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/4.mp4` |
+| ES_Popping Sounds With Mouth - Epidemic Sound.mp3 | 6.96 | `D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/Bubbles/ES_Popping Sounds With Mouth - Epidemic Sound.mp3` |
 
 ### tone
 

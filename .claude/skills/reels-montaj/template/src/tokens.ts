@@ -27,7 +27,14 @@ export const W = 1080;
 export const H = 1920;
 
 export const font = loadInter("normal", { weights: ["500", "600", "700"], subsets: ["latin", "latin-ext"] }).fontFamily;
-export const fontCond = loadOswald("normal", { weights: ["400", "700"], subsets: ["latin", "latin-ext"] }).fontFamily;
+// fitText o'lchashidan oldin shrift yuklanganini kutish uchun loader ham eksport qilinadi
+export const fontCondLoader = loadOswald("normal", { weights: ["400", "700"], subsets: ["latin", "latin-ext"] });
+export const fontCond = fontCondLoader.fontFamily;
+
+// Ierarxiya qoidalari (motion-uslub.md + foydalanuvchi tahlili)
+export const BIG_WIDTH = 0.82; // "katta" so'z ekran kengligining 70-90% i (maqsad 82%)
+export const SUB_MIN = 42; // yordamchi so'zlar kamida 42px
+export const COUNTER_HOLD = 0.8; // hisoblagich oxirgi qiymatda kamida 0,8 s turadi
 
 export const sec = (s: number) => Math.round(s * FPS);
 
