@@ -115,7 +115,7 @@ Transkriptni o'qib, vaqtlarni **soniyada** `words.json` dagi so'zlarga bog'lab y
 
 ## 3b. orqada niqoblari (faqat ekspert-motion, plan.json da "orqada" bo'lsa)
 ```powershell
-.venvScriptspython "$Sscriptsorqada.py" --loyiha montaj
+.venv\Scripts\python "$S\scripts\orqada.py" --loyiha montaj
 ```
 Yo'q bo'lsa ham ishlatish xavfsiz: bo'sh `orqada.json` yozadi.
 
