@@ -11,6 +11,7 @@ AI agentlar qurish va bizneslarni avtomatlashtirishni noldan o'rganish.
 - [x] 5-dars: Claude Code
 - [x] 6-dars: CLAUDE.md
 - [x] 7-dars: 1-SKILL
+- [x] 8-dars: Skill'ga bilim qo'shish
 
 ## Muhim qoida
 **Modelning xotirasi yo'q.** Har safar butun suhbat qayta yuboriladi.
