@@ -20,8 +20,12 @@ Agar berilmagan bo'lsa, so'ra: biznes turi, auditoriya, videoning maqsadi (sotuv
 - Ekrandagi yozuv (5 so'zdan oshmasin)
 
 ## Qoidalar
-- Umumiy davomiylik 15–30 soniya.
+- Umumiy davomiylik ssenariydan yoki videodan kelib chiqib.
 - Til: o'zbek, jonli va oddiy, rasmiy emas.
 - Oxirida mos musiqa kayfiyatini va 5 ta hashtag taklif qil.
 - Natijani jadval ko'rinishida ber.
 - Har ssenariyga 2 ta muqobil hook variantini qo’sh
+
+## Qo'shimcha manbalar
+- Ssenariy yozishdan oldin `references/uslub.md` ni o'qi va ritm, o'tishlar hamda matn qoidalariga amal qil. Har bir sahnada qaysi o'tish ishlatilishini ham yoz.
+- Natija sifati uchun `references/namunalar.md` dagi namunalarga mos darajada yoz, lekin ularni nusxalama.
