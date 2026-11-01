@@ -8,6 +8,8 @@ AI agentlar qurish va bizneslarni avtomatlashtirishni noldan o'rganish.
 - [x] 2-dars: Fayllar va Markdown
 - [x] 3-dars: Git
 - [x] 4-dars: GitHub
+- [x] 5-dars: Claude Code
+
 ## Muhim qoida
 **Modelning xotirasi yo'q.** Har safar butun suhbat qayta yuboriladi.
 
