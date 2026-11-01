@@ -14,3 +14,4 @@ Windows, PowerShell va VS Code'dan foydalanaman.
 - Commit izohlarini o'zbek tilida, qisqa yoz.
 - git push'ni faqat men aniq so'raganimda qil.
 - Fayl o'chirishdan oldin doim so'ra.
+- Har javob oxirida men uchun bitta kichik mashq taklif qil.
