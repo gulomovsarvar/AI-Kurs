@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(ffmpeg *)",
+      "PowerShell(ffprobe *)",
+      "PowerShell(.venv\\Scripts\\python *)",
+      "PowerShell(.venv/Scripts/python *)",
+      "PowerShell(npx remotion *)",
+      "PowerShell(cd montaj; npx remotion *)",
+      "Bash(ffmpeg *)",
+      "Bash(ffprobe *)",
+      "Bash(.venv/Scripts/python *)",
+      "Bash(npx remotion *)",
+      "Bash(cd montaj && npx remotion *)"
+    ],
+    "ask": [
+      "PowerShell(Remove-Item *)",
+      "PowerShell(rm *)",
+      "PowerShell(del *)",
+      "PowerShell(git push *)",
+      "Bash(rm *)",
+      "Bash(git push *)"
+    ]
+  }
+}
