@@ -19,3 +19,10 @@ AI agentlar qurish va bizneslarni avtomatlashtirishni noldan o'rganish.
 
 ## Kurs oxirida quradigan birinchi agentim
 **Ai montaj** Claude orqali , skill lar bilan yoki reference videolardan ilhomlanib video montaj qiladigan agent qurmoqchiman
+
+## Foydalanilgan manbalar
+- **montaj-skills** — muallifi **Umid** (Telegram orqali olingan): `reels-montaj` skill'i va Remotion shabloni shu to'plamdan olinib, Windows/PowerShell va ikki formatga (tutorial, ekspert-motion) moslab qayta yozildi. `openmontage` qismi olinmadi.
+- **remotion-best-practices** — Remotion jamoasining rasmiy skill'lari (v4.0.536), montaj-skills to'plami ichida kelgan.
+- **NavaiSTT** — o'zbekcha nutqni matnga aylantirish modeli: huggingface.co/abduaziz/navaistt_v2_medium_ct2 (faster-whisper orqali).
+- **Remotion** (remotion.dev), **FFmpeg**, **Openverse** (bepul musiqa va SFX qidiruvi).
+- SFX kutubxonasi: `D:\motion uchun\sfx` ("Asilov's sound effect" to'plami; `ES_` fayllar Epidemic Sound litsenziyasida).

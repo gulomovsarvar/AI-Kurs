@@ -1,0 +1,4443 @@
+{
+ "manba": "D:\\motion uchun",
+ "sfx": [
+  {
+   "rol": "pop",
+   "fayl": "ES_Popping Sounds With Mouth - Epidemic Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/Bubbles/ES_Popping Sounds With Mouth - Epidemic Sound.mp3",
+   "dur": 6.96,
+   "litsenziya": "Epidemic Sound (obuna kerak)"
+  },
+  {
+   "rol": "pop",
+   "fayl": "Pop 2.mp4",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Pop 2.mp4",
+   "dur": 1.57,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "pop",
+   "fayl": "Pop 3.mp4",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Pop 3.mp4",
+   "dur": 0.75,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "pop",
+   "fayl": "Pop 4.mp4",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Pop 4.mp4",
+   "dur": 1.22,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "pop",
+   "fayl": "1.mp4",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/1.mp4",
+   "dur": 2.22,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "pop",
+   "fayl": "2.mp4",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/2.mp4",
+   "dur": 1.88,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "pop",
+   "fayl": "3.mp4",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/3.mp4",
+   "dur": 1.77,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "pop",
+   "fayl": "4.mp4",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/4.mp4",
+   "dur": 3.75,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "pop",
+   "fayl": "5.mp4",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/5.mp4",
+   "dur": 2.03,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "pop",
+   "fayl": "6.mp4",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/6.mp4",
+   "dur": 1.52,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "pop",
+   "fayl": "7.mp4",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/7.mp4",
+   "dur": 2.12,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "pop",
+   "fayl": "8.mp4",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/8.mp4",
+   "dur": 1.85,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "pop",
+   "fayl": "9.mp4",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/My pops/Sparkle pops/9.mp4",
+   "dur": 2.05,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tick",
+   "fayl": "MA_Originals_ScaryClocks_hypnotic_clock_ticking_100_bpm.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/CLOCK/MA_Originals_ScaryClocks/MA_Originals_ScaryClocks_hypnotic_clock_ticking_100_bpm.wav",
+   "dur": 9.6,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tick",
+   "fayl": "MA_Originals_ScaryClocks_scary_grandma_clock_ticking_140_bpm.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/CLOCK/MA_Originals_ScaryClocks/MA_Originals_ScaryClocks_scary_grandma_clock_ticking_140_bpm.wav",
+   "dur": 13.71,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tick",
+   "fayl": "MA_Originals_ScaryClocks_spooky_rhythm_clock_ticking_reverberant_112_bpm.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/CLOCK/MA_Originals_ScaryClocks/MA_Originals_ScaryClocks_spooky_rhythm_clock_ticking_reverberant_112_bpm.wav",
+   "dur": 17.14,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 1.wav",
+   "dur": 1.38,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 11.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 11.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 12.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 12.wav",
+   "dur": 1.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 13.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 13.wav",
+   "dur": 1.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 14.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 14.wav",
+   "dur": 0.67,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 15.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 15.wav",
+   "dur": 0.9,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 16.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 16.wav",
+   "dur": 1.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 17.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 17.wav",
+   "dur": 1.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 18.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 18.wav",
+   "dur": 1.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 19.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 19.wav",
+   "dur": 0.33,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 2.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 20.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 20.wav",
+   "dur": 1.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 21.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 21.wav",
+   "dur": 2.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 22.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 22.wav",
+   "dur": 0.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 23.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 23.wav",
+   "dur": 1.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 24.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 24.wav",
+   "dur": 1.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 25.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 25.wav",
+   "dur": 1.3,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 26.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 26.wav",
+   "dur": 0.67,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 27.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 27.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 28.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 28.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 29.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 29.wav",
+   "dur": 1.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 3.wav",
+   "dur": 1.25,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 30.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 30.wav",
+   "dur": 1.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 31.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 31.wav",
+   "dur": 0.33,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 32.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 32.wav",
+   "dur": 1.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 33.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 33.wav",
+   "dur": 0.9,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 4.wav",
+   "dur": 0.42,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 5.wav",
+   "dur": 0.63,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 6.wav",
+   "dur": 0.75,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 7.wav",
+   "dur": 0.75,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 8.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 8.wav",
+   "dur": 0.63,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "_ Glitch 9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/_ Glitch 9.wav",
+   "dur": 0.42,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "MA_BadAtmospheric_TechnologicFuturisticSound_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/MA_BadAtmospheric_TechnologicFuturisticSounds/MA_BadAtmospheric_TechnologicFuturisticSound_1.wav",
+   "dur": 2.09,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "MA_BadAtmospheric_TechnologicFuturisticSound_10.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/MA_BadAtmospheric_TechnologicFuturisticSounds/MA_BadAtmospheric_TechnologicFuturisticSound_10.wav",
+   "dur": 2.09,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "MA_BadAtmospheric_TechnologicFuturisticSound_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/MA_BadAtmospheric_TechnologicFuturisticSounds/MA_BadAtmospheric_TechnologicFuturisticSound_2.wav",
+   "dur": 2.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "MA_BadAtmospheric_TechnologicFuturisticSound_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/MA_BadAtmospheric_TechnologicFuturisticSounds/MA_BadAtmospheric_TechnologicFuturisticSound_3.wav",
+   "dur": 2.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "MA_BadAtmospheric_TechnologicFuturisticSound_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/MA_BadAtmospheric_TechnologicFuturisticSounds/MA_BadAtmospheric_TechnologicFuturisticSound_4.wav",
+   "dur": 6.98,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "MA_BadAtmospheric_TechnologicFuturisticSound_5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/MA_BadAtmospheric_TechnologicFuturisticSounds/MA_BadAtmospheric_TechnologicFuturisticSound_5.wav",
+   "dur": 1.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "MA_BadAtmospheric_TechnologicFuturisticSound_6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/MA_BadAtmospheric_TechnologicFuturisticSounds/MA_BadAtmospheric_TechnologicFuturisticSound_6.wav",
+   "dur": 1.05,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "MA_BadAtmospheric_TechnologicFuturisticSound_7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/MA_BadAtmospheric_TechnologicFuturisticSounds/MA_BadAtmospheric_TechnologicFuturisticSound_7.wav",
+   "dur": 2.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "MA_BadAtmospheric_TechnologicFuturisticSound_8.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/MA_BadAtmospheric_TechnologicFuturisticSounds/MA_BadAtmospheric_TechnologicFuturisticSound_8.wav",
+   "dur": 5.58,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "glitch",
+   "fayl": "MA_BadAtmospheric_TechnologicFuturisticSound_9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/GLITCH/MA_BadAtmospheric_TechnologicFuturisticSounds/MA_BadAtmospheric_TechnologicFuturisticSound_9.wav",
+   "dur": 1.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Nature 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 1.wav",
+   "dur": 23.05,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Nature 10.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 10.wav",
+   "dur": 23.05,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Nature 11.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 11.wav",
+   "dur": 23.05,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Nature 13.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 13.wav",
+   "dur": 23.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Nature 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 2.wav",
+   "dur": 23.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Nature 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 3.wav",
+   "dur": 23.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Nature 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 4.wav",
+   "dur": 23.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Nature 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 5.wav",
+   "dur": 23.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Nature 6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 6.wav",
+   "dur": 23.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Nature 7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 7.wav",
+   "dur": 23.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Nature 8.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 8.wav",
+   "dur": 23.05,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Nature 9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Nature 9.wav",
+   "dur": 23.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Wind 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 1.wav",
+   "dur": 16.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Wind 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 2.wav",
+   "dur": 16.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Wind 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 3.wav",
+   "dur": 16.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Wind 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 4.wav",
+   "dur": 16.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Wind 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 5.wav",
+   "dur": 16.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "_ Wind 6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/_ Wind 6.wav",
+   "dur": 19.37,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_SFXpecial_Christmas Wind_Loopable_01.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Christmas-wind-2085031/MA_SFXpecial_Christmas Wind_Loopable_01.wav",
+   "dur": 30.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_SFXpecial_Christmas Wind_Loopable_02.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Christmas-wind-2085031/MA_SFXpecial_Christmas Wind_Loopable_02.wav",
+   "dur": 35.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_SFXpecial_Christmas Wind_Loopable_03.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Christmas-wind-2085031/MA_SFXpecial_Christmas Wind_Loopable_03.wav",
+   "dur": 30.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_Beison_Flowing_River_with_Swirls_1.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_1.mp3",
+   "dur": 99.27,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_Beison_Flowing_River_with_Swirls_2.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_2.mp3",
+   "dur": 65.62,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_Beison_Flowing_River_with_Swirls_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_2.wav",
+   "dur": 65.62,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_Beison_Flowing_River_with_Swirls_3.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_3.mp3",
+   "dur": 59.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_Beison_Flowing_River_with_Swirls_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Flowing-river-with-swirls-1737342/MA_Beison_Flowing_River_with_Swirls_3.wav",
+   "dur": 59.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_BadAtmospheric_WaterImpact_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_1.wav",
+   "dur": 1.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_BadAtmospheric_WaterImpact_10.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_10.wav",
+   "dur": 4.19,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_BadAtmospheric_WaterImpact_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_2.wav",
+   "dur": 1.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_BadAtmospheric_WaterImpact_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_3.wav",
+   "dur": 2.09,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_BadAtmospheric_WaterImpact_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_4.wav",
+   "dur": 1.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_BadAtmospheric_WaterImpact_5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_5.wav",
+   "dur": 1.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_BadAtmospheric_WaterImpact_6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_6.wav",
+   "dur": 1.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_BadAtmospheric_WaterImpact_7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_7.wav",
+   "dur": 1.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_BadAtmospheric_WaterImpact_8.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_8.wav",
+   "dur": 1.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_BadAtmospheric_WaterImpact_9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/MA_BadAtmospheric_WaterImpact/MA_BadAtmospheric_WaterImpact_9.wav",
+   "dur": 1.05,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_Beison_Summer_and_Spring_Birdsong_1.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_1.mp3",
+   "dur": 111.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_Beison_Summer_and_Spring_Birdsong_2.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_2.mp3",
+   "dur": 48.23,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_Beison_Summer_and_Spring_Birdsong_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_2.wav",
+   "dur": 48.23,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_Beison_Summer_and_Spring_Birdsong_3_with_Calm_Wind.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_3_with_Calm_Wind.mp3",
+   "dur": 109.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_Beison_Summer_and_Spring_Birdsong_4.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_4.mp3",
+   "dur": 34.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tabiat",
+   "fayl": "MA_Beison_Summer_and_Spring_Birdsong_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Summer-and-spring-birdsong-1129060/MA_Beison_Summer_and_Spring_Birdsong_4.wav",
+   "dur": 34.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_BBRealSound_Water_Swooshes_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Water_Swooshes_source_1677490/MA_BBRealSound_Water_Swooshes_1.wav",
+   "dur": 6.87,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_BBRealSound_Water_Swooshes_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Water_Swooshes_source_1677490/MA_BBRealSound_Water_Swooshes_2.wav",
+   "dur": 5.56,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_BBRealSound_Water_Swooshes_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Water_Swooshes_source_1677490/MA_BBRealSound_Water_Swooshes_3.wav",
+   "dur": 5.47,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_BBRealSound_Water_Swooshes_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Water_Swooshes_source_1677490/MA_BBRealSound_Water_Swooshes_4.wav",
+   "dur": 6.87,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_BBRealSound_Water_Swooshes_5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Water_Swooshes_source_1677490/MA_BBRealSound_Water_Swooshes_5.wav",
+   "dur": 6.46,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_BBRealSound_Water_Swooshes_6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Water_Swooshes_source_1677490/MA_BBRealSound_Water_Swooshes_6.wav",
+   "dur": 5.77,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_BBRealSound_Water_Swooshes_7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/NATURE/Water_Swooshes_source_1677490/MA_BBRealSound_Water_Swooshes_7.wav",
+   "dur": 7.9,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "ma_soundsbyjw_cars_passing_from_right_to_left_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Cars-passing-from-right-to-left-1285961/ma_soundsbyjw_cars_passing_from_right_to_left_1.wav",
+   "dur": 10.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "ma_soundsbyjw_cars_passing_from_right_to_left_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Cars-passing-from-right-to-left-1285961/ma_soundsbyjw_cars_passing_from_right_to_left_2.wav",
+   "dur": 10.15,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "ma_soundsbyjw_cars_passing_from_right_to_left_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Cars-passing-from-right-to-left-1285961/ma_soundsbyjw_cars_passing_from_right_to_left_3.wav",
+   "dur": 12.65,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "ma_soundsbyjw_cars_passing_from_right_to_left_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Cars-passing-from-right-to-left-1285961/ma_soundsbyjw_cars_passing_from_right_to_left_4.wav",
+   "dur": 14.67,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "ma_soundsbyjw_cars_passing_from_right_to_left_5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Cars-passing-from-right-to-left-1285961/ma_soundsbyjw_cars_passing_from_right_to_left_5.wav",
+   "dur": 17.95,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Tuttkile_ChaChingCashRegister_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Cha-ching-cash-register-1292763/MA_Tuttkile_ChaChingCashRegister_1.wav",
+   "dur": 2.98,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Tuttkile_ChaChingCashRegister_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Cha-ching-cash-register-1292763/MA_Tuttkile_ChaChingCashRegister_2.wav",
+   "dur": 2.98,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Tuttkile_ChaChingCashRegister_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Cha-ching-cash-register-1292763/MA_Tuttkile_ChaChingCashRegister_3.wav",
+   "dur": 2.56,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Digital Data Processing 01.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Digital_Data_Processing_source_578299/Digital Data Processing 01.wav",
+   "dur": 8.19,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Digital Data Processing 02.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Digital_Data_Processing_source_578299/Digital Data Processing 02.wav",
+   "dur": 5.31,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Digital Data Processing 03.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Digital_Data_Processing_source_578299/Digital Data Processing 03.wav",
+   "dur": 8.64,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Victorysound_FastHeartBeat_1_120bpm.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Fast-heart-beating-1055556/MA_Victorysound_FastHeartBeat_1_120bpm.wav",
+   "dur": 30.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Victorysound_FastHeartBeat_2_130bpm.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Fast-heart-beating-1055556/MA_Victorysound_FastHeartBeat_2_130bpm.wav",
+   "dur": 29.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Victorysound_FastHeartBeat_3_140bpm.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Fast-heart-beating-1055556/MA_Victorysound_FastHeartBeat_3_140bpm.wav",
+   "dur": 29.14,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Victorysound_FastHeartBeat_4_150bpm.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Fast-heart-beating-1055556/MA_Victorysound_FastHeartBeat_4_150bpm.wav",
+   "dur": 30.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement heels boots_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement heels boots_3.wav",
+   "dur": 14.28,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement sneakers and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement sneakers and jumping.wav",
+   "dur": 11.14,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement sneakers and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement sneakers and running.wav",
+   "dur": 11.14,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement sneakers and stairs.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement sneakers and stairs.wav",
+   "dur": 12.66,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement sneakers.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement sneakers.wav",
+   "dur": 13.47,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement sneakers_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement sneakers_2.wav",
+   "dur": 8.95,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement wet and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement wet and jumping.wav",
+   "dur": 12.35,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement wet and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement wet and running.wav",
+   "dur": 11.51,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement wet and stairs.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement wet and stairs.wav",
+   "dur": 12.06,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement wet high heels and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement wet high heels and jumping.wav",
+   "dur": 9.86,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement wet high heels and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement wet high heels and running.wav",
+   "dur": 9.9,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement wet high heels_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement wet high heels_1.wav",
+   "dur": 14.06,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement wet high heels_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement wet high heels_2.wav",
+   "dur": 11.62,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement wet.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement wet.wav",
+   "dur": 17.9,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement wet_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement wet_2.wav",
+   "dur": 13.65,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "cement wet_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/cement wet_3.wav",
+   "dur": 11.69,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "dirt running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/dirt running.wav",
+   "dur": 11.87,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "dirt_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/dirt_1.wav",
+   "dur": 12.38,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "dirt_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/dirt_2.wav",
+   "dur": 10.59,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "dirt_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/dirt_3.wav",
+   "dur": 10.41,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "grass and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/grass and jumping.wav",
+   "dur": 9.5,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "grass and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/grass and running.wav",
+   "dur": 10.59,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "grass_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/grass_1.wav",
+   "dur": 15.34,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "grass_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/grass_2.wav",
+   "dur": 14.56,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "grass_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/grass_3.wav",
+   "dur": 12.42,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gravel and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gravel and running.wav",
+   "dur": 10.96,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gravel_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gravel_1.wav",
+   "dur": 12.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gravel_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gravel_2.wav",
+   "dur": 17.72,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gravel_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gravel_3.wav",
+   "dur": 11.69,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement dress boots and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement dress boots and jumping.wav",
+   "dur": 12.19,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement dress boots and runnig.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement dress boots and runnig.wav",
+   "dur": 10.23,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement dress boots_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement dress boots_1.wav",
+   "dur": 16.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement dress boots_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement dress boots_2.wav",
+   "dur": 11.64,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement dress boots_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement dress boots_3.wav",
+   "dur": 15.89,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement heels and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement heels and jumping.wav",
+   "dur": 8.04,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement heels and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement heels and running.wav",
+   "dur": 9.94,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement heels and stairs.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement heels and stairs.wav",
+   "dur": 11.87,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement heels_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement heels_1.wav",
+   "dur": 12.24,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement heels_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement heels_2.wav",
+   "dur": 9.32,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement heels_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement heels_3.wav",
+   "dur": 13.52,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement sneakers and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement sneakers and jumping.wav",
+   "dur": 11.51,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement sneakers and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement sneakers and running.wav",
+   "dur": 11.87,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement sneakers and stairs.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement sneakers and stairs.wav",
+   "dur": 10.59,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement sneakers.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement sneakers.wav",
+   "dur": 15.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement sneakers_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement sneakers_2.wav",
+   "dur": 11.34,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "gritty cement sneakers_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/gritty cement sneakers_3.wav",
+   "dur": 13.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "metal grate and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/metal grate and running.wav",
+   "dur": 8.95,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "metal grate and stairs.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/metal grate and stairs.wav",
+   "dur": 13.26,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "metal grate with rattle and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/metal grate with rattle and jumping.wav",
+   "dur": 12.66,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "metal grate with rattle and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/metal grate with rattle and running.wav",
+   "dur": 8.58,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "metal grate with rattle.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/metal grate with rattle.wav",
+   "dur": 15.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "metal grate with rattle_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/metal grate with rattle_2.wav",
+   "dur": 18.45,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "metal grate with rattle_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/metal grate with rattle_3.wav",
+   "dur": 13.52,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "metal grate_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/metal grate_1.wav",
+   "dur": 14.25,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "metal grate_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/metal grate_2.wav",
+   "dur": 12.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "mud and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/mud and running.wav",
+   "dur": 10.41,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "mud_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/mud_1.wav",
+   "dur": 21.73,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "mud_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/mud_2.wav",
+   "dur": 13.33,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "mud_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/mud_3.wav",
+   "dur": 12.6,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "snow and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/snow and running.wav",
+   "dur": 12.6,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "snow_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/snow_1.wav",
+   "dur": 23.99,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "snow_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/snow_2.wav",
+   "dur": 13.12,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "snow_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/snow_3.wav",
+   "dur": 14.8,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard dress boots and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard dress boots and jumping.wav",
+   "dur": 7.67,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard dress boots and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard dress boots and running.wav",
+   "dur": 14.06,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard dress boots and stairs.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard dress boots and stairs.wav",
+   "dur": 10.59,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard dress boots and stairs_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard dress boots and stairs_2.wav",
+   "dur": 9.35,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard dress boots_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard dress boots_1.wav",
+   "dur": 14.27,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard dress boots_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard dress boots_2.wav",
+   "dur": 16.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard dress boots_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard dress boots_3.wav",
+   "dur": 16.46,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard heels and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard heels and jumping.wav",
+   "dur": 9.32,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard heels and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard heels and running.wav",
+   "dur": 10.23,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard heels and stairs.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard heels and stairs.wav",
+   "dur": 13.52,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard heels_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard heels_1.wav",
+   "dur": 12.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard heels_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard heels_2.wav",
+   "dur": 11.69,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard sneakers and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard sneakers and jumping.wav",
+   "dur": 13.88,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard sneakers and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard sneakers and running.wav",
+   "dur": 14.1,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard sneakers and stairs.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard sneakers and stairs.wav",
+   "dur": 16.44,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard sneakers and stairs_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard sneakers and stairs_2.wav",
+   "dur": 14.43,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard sneakers_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard sneakers_1.wav",
+   "dur": 11.32,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard sneakers_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard sneakers_2.wav",
+   "dur": 16.26,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood hard sneakers_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood hard sneakers_3.wav",
+   "dur": 16.89,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood high heels and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood high heels and jumping.wav",
+   "dur": 9.64,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood high heels and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood high heels and running.wav",
+   "dur": 13.88,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood high heels and stairs.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood high heels and stairs.wav",
+   "dur": 14.14,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood high heels_1 .wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood high heels_1 .wav",
+   "dur": 12.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood high heels_2 .wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood high heels_2 .wav",
+   "dur": 16.26,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood high heels_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood high heels_3.wav",
+   "dur": 14.25,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood soft sneakers and jumping.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood soft sneakers and jumping.wav",
+   "dur": 11.14,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood soft sneakers and running.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood soft sneakers and running.wav",
+   "dur": 14.3,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood soft sneakers and snairs.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood soft sneakers and snairs.wav",
+   "dur": 16.8,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood soft sneakers_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood soft sneakers_1.wav",
+   "dur": 15.16,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood soft sneakers_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood soft sneakers_2.wav",
+   "dur": 13.24,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "wood soft sneakers_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Footsteps 117/wood soft sneakers_3.wav",
+   "dur": 13.33,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Incorrect SFX 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Incorrect-sfx-174803/Incorrect SFX 1.wav",
+   "dur": 3.01,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Incorrect SFX 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Incorrect-sfx-174803/Incorrect SFX 2.wav",
+   "dur": 2.41,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Incorrect SFX 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Incorrect-sfx-174803/Incorrect SFX 3.wav",
+   "dur": 2.41,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Incorrect SFX 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Incorrect-sfx-174803/Incorrect SFX 4.wav",
+   "dur": 2.41,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Incorrect SFX 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Incorrect-sfx-174803/Incorrect SFX 5.wav",
+   "dur": 2.41,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Tuttkile_InterfaceRecycleBin_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Interface-recycle-bin-1361721/MA_Tuttkile_InterfaceRecycleBin_1.wav",
+   "dur": 1.15,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Tuttkile_InterfaceRecycleBin_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Interface-recycle-bin-1361721/MA_Tuttkile_InterfaceRecycleBin_2.wav",
+   "dur": 0.71,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Tuttkile_InterfaceRecycleBin_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Interface-recycle-bin-1361721/MA_Tuttkile_InterfaceRecycleBin_3.wav",
+   "dur": 0.77,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Tuttkile_InterfaceRecycleBin_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Interface-recycle-bin-1361721/MA_Tuttkile_InterfaceRecycleBin_4.wav",
+   "dur": 0.43,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Tuttkile_InterfaceRecycleBin_5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Interface-recycle-bin-1361721/MA_Tuttkile_InterfaceRecycleBin_5.wav",
+   "dur": 0.66,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Tuttkile_InterfaceRecycleBin_6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Interface-recycle-bin-1361721/MA_Tuttkile_InterfaceRecycleBin_6.wav",
+   "dur": 0.89,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Tuttkile_InterfaceRecycleBin_7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Interface-recycle-bin-1361721/MA_Tuttkile_InterfaceRecycleBin_7.wav",
+   "dur": 1.72,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Equilibrio_LightEffects_01.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Light-effects-1735320/MA_Equilibrio_LightEffects_01.wav",
+   "dur": 3.68,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Equilibrio_LightEffects_02.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Light-effects-1735320/MA_Equilibrio_LightEffects_02.wav",
+   "dur": 3.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Equilibrio_LightEffects_03.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Light-effects-1735320/MA_Equilibrio_LightEffects_03.wav",
+   "dur": 3.6,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Equilibrio_LightEffects_04.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Light-effects-1735320/MA_Equilibrio_LightEffects_04.wav",
+   "dur": 3.59,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Equilibrio_LightEffects_05.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Light-effects-1735320/MA_Equilibrio_LightEffects_05.wav",
+   "dur": 4.02,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Asak SFX_WindowShatteredGlass_crash_breaking_window.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/MA_Asak SFX_WindowShatteredGlass/MA_Asak SFX_WindowShatteredGlass_crash_breaking_window.wav",
+   "dur": 1.93,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Asak SFX_WindowShatteredGlass_glass_crash_hit.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/MA_Asak SFX_WindowShatteredGlass/MA_Asak SFX_WindowShatteredGlass_glass_crash_hit.wav",
+   "dur": 1.58,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Asak SFX_WindowShatteredGlass_glass_window_crash.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/MA_Asak SFX_WindowShatteredGlass/MA_Asak SFX_WindowShatteredGlass_glass_window_crash.wav",
+   "dur": 2.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Asak SFX_WindowShatteredGlass_hit_mirror_crash.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/MA_Asak SFX_WindowShatteredGlass/MA_Asak SFX_WindowShatteredGlass_hit_mirror_crash.wav",
+   "dur": 1.45,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Asak SFX_WindowShatteredGlass_mirror_crash_glass.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/MA_Asak SFX_WindowShatteredGlass/MA_Asak SFX_WindowShatteredGlass_mirror_crash_glass.wav",
+   "dur": 1.97,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Asak SFX_WindowShatteredGlass_mirror_hit_crash.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/MA_Asak SFX_WindowShatteredGlass/MA_Asak SFX_WindowShatteredGlass_mirror_hit_crash.wav",
+   "dur": 2.41,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Asak SFX_WindowShatteredGlass_window_glass_crash.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/MA_Asak SFX_WindowShatteredGlass/MA_Asak SFX_WindowShatteredGlass_window_glass_crash.wav",
+   "dur": 1.62,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "paper",
+   "fayl": "_ _a box of paper clips fell.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _a box of paper clips fell.wav",
+   "dur": 0.52,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _a printer.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _a printer.wav",
+   "dur": 11.45,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _ballpoint pen button on table.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _ballpoint pen button on table.wav",
+   "dur": 1.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _cap cap 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _cap cap 2.wav",
+   "dur": 1.72,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _closed the cabinet_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _closed the cabinet_4.wav",
+   "dur": 1.18,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _closed the cabinet_5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _closed the cabinet_5.wav",
+   "dur": 2.17,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _closed the refrigerator 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _closed the refrigerator 2.wav",
+   "dur": 1.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _crumpled a plastic cup 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _crumpled a plastic cup 2.wav",
+   "dur": 1.03,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _crumpled a plastic cup.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _crumpled a plastic cup.wav",
+   "dur": 3.1,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _duct tape 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _duct tape 2.wav",
+   "dur": 2.58,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _duct tape 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _duct tape 3.wav",
+   "dur": 3.01,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _hole puncher 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _hole puncher 3.wav",
+   "dur": 13.81,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _key in the lock.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _key in the lock.wav",
+   "dur": 0.65,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _knocking on the door.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _knocking on the door.wav",
+   "dur": 2.18,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _microwave button.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _microwave button.wav",
+   "dur": 0.96,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _microwave process stop.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _microwave process stop.wav",
+   "dur": 8.06,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _opened a plastic container.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _opened a plastic container.wav",
+   "dur": 1.56,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _opened the microwave.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _opened the microwave.wav",
+   "dur": 1.51,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _opens the envelope 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _opens the envelope 2.wav",
+   "dur": 9.67,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _pulls the table.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _pulls the table.wav",
+   "dur": 0.88,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _put on the table.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _put on the table.wav",
+   "dur": 0.62,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _recounts money.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _recounts money.wav",
+   "dur": 4.92,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _scissors 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _scissors 2.wav",
+   "dur": 2.52,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _sharpen pencil.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _sharpen pencil.wav",
+   "dur": 5.91,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "_ _spitefully typing.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _spitefully typing.wav",
+   "dur": 7.09,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _table drawer 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _table drawer 2.wav",
+   "dur": 3.86,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _table drawer 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _table drawer 3.wav",
+   "dur": 4.19,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _table drawer sound.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _table drawer sound.wav",
+   "dur": 3.47,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _threw a backpack.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _threw a backpack.wav",
+   "dur": 1.38,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _thrown into the trash 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _thrown into the trash 2.wav",
+   "dur": 1.68,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _thrown into the trash 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _thrown into the trash 3.wav",
+   "dur": 0.94,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ _writes with felt-tip pen.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ _writes with felt-tip pen.wav",
+   "dur": 5.66,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ floor selection button.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ floor selection button.wav",
+   "dur": 0.51,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ mac OS 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ mac OS 1.wav",
+   "dur": 0.61,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ mac OS 12.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ mac OS 12.wav",
+   "dur": 0.92,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ mac OS 14.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ mac OS 14.wav",
+   "dur": 0.72,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ mac OS 15.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ mac OS 15.wav",
+   "dur": 1.73,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ mac OS 18.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ mac OS 18.wav",
+   "dur": 1.03,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ mac OS 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ mac OS 2.wav",
+   "dur": 1.32,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ mac OS 7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ mac OS 7.wav",
+   "dur": 0.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ opened a plastic jar 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ opened a plastic jar 2.wav",
+   "dur": 2.07,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ opened the cap 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ opened the cap 2.wav",
+   "dur": 0.9,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ opens a box sealed with tape.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ opens a box sealed with tape.wav",
+   "dur": 4.28,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "paper",
+   "fayl": "_ paper cut with a blade on the table 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ paper cut with a blade on the table 2.wav",
+   "dur": 1.97,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "paper",
+   "fayl": "_ paper cut with a blade on the table 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ paper cut with a blade on the table 3.wav",
+   "dur": 0.8,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ pounding the table.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ pounding the table.wav",
+   "dur": 5.32,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ printer laser.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ printer laser.wav",
+   "dur": 13.81,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ pulled out a flash drive 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ pulled out a flash drive 2.wav",
+   "dur": 2.33,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ pulled out a flash drive.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ pulled out a flash drive.wav",
+   "dur": 1.73,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ scype 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ scype 1.wav",
+   "dur": 3.85,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ scype 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ scype 2.wav",
+   "dur": 2.36,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ scype 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ scype 3.wav",
+   "dur": 3.11,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ scype 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ scype 4.wav",
+   "dur": 1.73,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ scype 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ scype 5.wav",
+   "dur": 1.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ scype 6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ scype 6.wav",
+   "dur": 1.16,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ scype 7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ scype 7.wav",
+   "dur": 3.45,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ scype 8.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ scype 8.wav",
+   "dur": 0.92,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ scype call.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ scype call.wav",
+   "dur": 3.85,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ shut the door.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ shut the door.wav",
+   "dur": 1.78,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ sits in an office chair 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ sits in an office chair 2.wav",
+   "dur": 1.73,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ sits in an office chair.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ sits in an office chair.wav",
+   "dur": 1.73,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "paper",
+   "fayl": "_ tearing up a newspaper 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ tearing up a newspaper 2.wav",
+   "dur": 3.43,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "paper",
+   "fayl": "_ tearing up a newspaper.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ tearing up a newspaper.wav",
+   "dur": 2.47,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ the chair is rolling 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ the chair is rolling 2.wav",
+   "dur": 1.73,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ the creak of a chair on the floor.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ the creak of a chair on the floor.wav",
+   "dur": 1.64,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ the handle rolls and falls.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ the handle rolls and falls.wav",
+   "dur": 2.21,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ threw a box.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ threw a box.wav",
+   "dur": 2.07,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ threw coins on the table.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ threw coins on the table.wav",
+   "dur": 3.45,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ vacuum cleaner.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ vacuum cleaner.wav",
+   "dur": 17.15,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ windows 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ windows 1.wav",
+   "dur": 1.09,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ windows 11.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ windows 11.wav",
+   "dur": 1.73,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ windows 12.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ windows 12.wav",
+   "dur": 1.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ windows 14.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ windows 14.wav",
+   "dur": 2.14,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ windows 16.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ windows 16.wav",
+   "dur": 0.96,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ windows 17.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ windows 17.wav",
+   "dur": 1.08,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ windows 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ windows 5.wav",
+   "dur": 1.22,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_ windows 9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_ windows 9.wav",
+   "dur": 2.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_applause 5 lamp.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_applause 5 lamp.wav",
+   "dur": 6.07,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_close the window.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_close the window.wav",
+   "dur": 2.15,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_pages a book.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_pages a book.wav",
+   "dur": 1.05,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "_threw a book.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/office pack 293/_threw a book.wav",
+   "dur": 1.8,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Sci-Fi Scanner 01.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Sci-Fi_Scanner_source_358134/Sci-Fi Scanner 01.wav",
+   "dur": 2.28,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Sci-Fi Scanner 02.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Sci-Fi_Scanner_source_358134/Sci-Fi Scanner 02.wav",
+   "dur": 1.96,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Sci-Fi Scanner 03.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Sci-Fi_Scanner_source_358134/Sci-Fi Scanner 03.wav",
+   "dur": 4.12,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Originals_ShortLighterClicks_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Short Lighter Clicks/MA_Originals_ShortLighterClicks_1.wav",
+   "dur": 0.82,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Originals_ShortLighterClicks_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Short Lighter Clicks/MA_Originals_ShortLighterClicks_2.wav",
+   "dur": 0.85,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Originals_ShortLighterClicks_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Short Lighter Clicks/MA_Originals_ShortLighterClicks_3.wav",
+   "dur": 0.86,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Originals_ShortLighterClicks_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Short Lighter Clicks/MA_Originals_ShortLighterClicks_4.wav",
+   "dur": 0.63,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_Originals_ShortLighterClicks_5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Short Lighter Clicks/MA_Originals_ShortLighterClicks_5.wav",
+   "dur": 1.43,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Star 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Star-730596/Star 1.wav",
+   "dur": 1.08,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Star 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Star-730596/Star 2.wav",
+   "dur": 1.29,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Star 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Star-730596/Star 3.wav",
+   "dur": 1.19,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Star 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Star-730596/Star 4.wav",
+   "dur": 0.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Star 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Star-730596/Star 5.wav",
+   "dur": 0.87,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Star 6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Star-730596/Star 6.wav",
+   "dur": 1.51,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Star 7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Star-730596/Star 7.wav",
+   "dur": 0.81,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Syrup Pouring_01.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Syrup Pouring/Syrup Pouring_01.wav",
+   "dur": 3.19,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Syrup Pouring_02.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Syrup Pouring/Syrup Pouring_02.wav",
+   "dur": 3.16,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "Syrup Pouring_03.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Syrup Pouring/Syrup Pouring_03.wav",
+   "dur": 2.62,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_AppleHillStudios_WindowCleaningSqueak_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Window Cleaning Squeak/MA_AppleHillStudios_WindowCleaningSqueak_1.wav",
+   "dur": 0.75,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_AppleHillStudios_WindowCleaningSqueak_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Window Cleaning Squeak/MA_AppleHillStudios_WindowCleaningSqueak_2.wav",
+   "dur": 1.53,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_AppleHillStudios_WindowCleaningSqueak_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Window Cleaning Squeak/MA_AppleHillStudios_WindowCleaningSqueak_3.wav",
+   "dur": 4.67,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_AppleHillStudios_WindowCleaningSqueak_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Window Cleaning Squeak/MA_AppleHillStudios_WindowCleaningSqueak_4.wav",
+   "dur": 1.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_AppleHillStudios_WindowCleaningSqueak_5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Window Cleaning Squeak/MA_AppleHillStudios_WindowCleaningSqueak_5.wav",
+   "dur": 3.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "boshqa",
+   "fayl": "MA_AppleHillStudios_WindowCleaningSqueak_6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/others/Window Cleaning Squeak/MA_AppleHillStudios_WindowCleaningSqueak_6.wav",
+   "dur": 1.85,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "riser",
+   "fayl": "_ Riser 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/RISERS/_ Riser 1.wav",
+   "dur": 7.56,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "riser",
+   "fayl": "_ Riser 10.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/RISERS/_ Riser 10.wav",
+   "dur": 6.96,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "riser",
+   "fayl": "_ Riser 11.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/RISERS/_ Riser 11.wav",
+   "dur": 11.5,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "riser",
+   "fayl": "_ Riser 12.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/RISERS/_ Riser 12.wav",
+   "dur": 19.1,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "riser",
+   "fayl": "_ Riser 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/RISERS/_ Riser 2.wav",
+   "dur": 4.08,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "riser",
+   "fayl": "_ Riser 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/RISERS/_ Riser 3.wav",
+   "dur": 3.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "riser",
+   "fayl": "_ Riser 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/RISERS/_ Riser 4.wav",
+   "dur": 5.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "riser",
+   "fayl": "_ Riser 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/RISERS/_ Riser 5.wav",
+   "dur": 19.5,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "riser",
+   "fayl": "_ Riser 6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/RISERS/_ Riser 6.wav",
+   "dur": 17.6,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "riser",
+   "fayl": "_ Riser 7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/RISERS/_ Riser 7.wav",
+   "dur": 3.33,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "riser",
+   "fayl": "_ Riser 8.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/RISERS/_ Riser 8.wav",
+   "dur": 7.6,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "riser",
+   "fayl": "_ Riser 9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/RISERS/_ Riser 9.wav",
+   "dur": 6.96,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 1.wav",
+   "dur": 6.66,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 10.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 10.wav",
+   "dur": 4.3,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 11.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 11.wav",
+   "dur": 9.08,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 12.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 12.wav",
+   "dur": 7.87,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 13.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 13.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 14.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 14.wav",
+   "dur": 4.9,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 15.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 15.wav",
+   "dur": 9.68,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 2.wav",
+   "dur": 9.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 3.wav",
+   "dur": 10.29,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 4.wav",
+   "dur": 3.03,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 5.wav",
+   "dur": 7.26,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 6.wav",
+   "dur": 7.26,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 7.wav",
+   "dur": 5.45,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 8.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 8.wav",
+   "dur": 9.68,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "stress",
+   "fayl": "_ Stress 9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/STRESS/_ Stress 9.wav",
+   "dur": 8.5,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 10.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 10.mp3",
+   "dur": 5.55,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 11.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 11.mp3",
+   "dur": 6.29,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 12.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 12.mp3",
+   "dur": 15.44,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 13.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 13.mp3",
+   "dur": 4.44,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 14.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 14.mp3",
+   "dur": 4.28,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 15.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 15.mp3",
+   "dur": 3.92,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 16.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 16.mp3",
+   "dur": 3.92,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 17.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 17.mp3",
+   "dur": 3.92,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 18.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 18.mp3",
+   "dur": 4.64,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 19.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 19.mp3",
+   "dur": 4.52,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 20.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 20.mp3",
+   "dur": 84.22,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 6.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 6.mp3",
+   "dur": 17.26,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 8.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 8.mp3",
+   "dur": 13.78,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "tone",
+   "fayl": "Tone 9.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TONE/Tone 9.mp3",
+   "dur": 5.55,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "MA_PashaStriker_ComputerKeyboardTyping_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Computer-keyboard-typing-1189429/MA_PashaStriker_ComputerKeyboardTyping_1.wav",
+   "dur": 4.8,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "MA_PashaStriker_ComputerKeyboardTyping_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Computer-keyboard-typing-1189429/MA_PashaStriker_ComputerKeyboardTyping_2.wav",
+   "dur": 5.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "MA_PashaStriker_ComputerKeyboardTyping_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Computer-keyboard-typing-1189429/MA_PashaStriker_ComputerKeyboardTyping_3.wav",
+   "dur": 4.08,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "HUD Text (1).wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Digital Typing/HUD Text (1).wav",
+   "dur": 2.23,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "HUD Text (2).wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Digital Typing/HUD Text (2).wav",
+   "dur": 0.96,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "HUD Text (3).wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Digital Typing/HUD Text (3).wav",
+   "dur": 1.73,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "HUD Text (4).wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Digital Typing/HUD Text (4).wav",
+   "dur": 1.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "HUD Text (5).wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Digital Typing/HUD Text (5).wav",
+   "dur": 1.67,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "HUD Text (6).wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Digital Typing/HUD Text (6).wav",
+   "dur": 1.28,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 1.wav",
+   "dur": 4.19,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 10.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 10.wav",
+   "dur": 3.75,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 11.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 11.wav",
+   "dur": 4.62,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 12.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 12.wav",
+   "dur": 2.35,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 13.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 13.wav",
+   "dur": 3.4,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 14.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 14.wav",
+   "dur": 2.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 15.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 15.wav",
+   "dur": 1.74,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 2.wav",
+   "dur": 4.71,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 3.wav",
+   "dur": 1.48,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 4.wav",
+   "dur": 3.14,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 5.wav",
+   "dur": 2.62,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 6.wav",
+   "dur": 2.09,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 7.wav",
+   "dur": 6.8,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 8.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 8.wav",
+   "dur": 1.48,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "Type 9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing/Type 9.wav",
+   "dur": 6.28,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "MA_Originals_KeyboardTypingLoops_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing Loops/MA_Originals_KeyboardTypingLoops_1.wav",
+   "dur": 3.1,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "MA_Originals_KeyboardTypingLoops_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing Loops/MA_Originals_KeyboardTypingLoops_2.wav",
+   "dur": 2.8,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "MA_Originals_KeyboardTypingLoops_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing Loops/MA_Originals_KeyboardTypingLoops_3.wav",
+   "dur": 2.1,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "MA_Originals_KeyboardTypingLoops_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing Loops/MA_Originals_KeyboardTypingLoops_4.wav",
+   "dur": 1.6,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "typing",
+   "fayl": "MA_Originals_KeyboardTypingLoops_5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/TYPING/Keyboard Typing Loops/MA_Originals_KeyboardTypingLoops_5.wav",
+   "dur": 0.95,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 1.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 10.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 10.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 11.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 11.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 12.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 12.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 13.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 13.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 14.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 14.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 15.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 15.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 2.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 3.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 4.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 5.wav",
+   "dur": 1.05,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 6.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 7.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 8.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 8.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "App Click 9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/App Click/App Click 9.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_PashaStriker_BellsOfSuccess_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Bells-of-success-1049425/MA_PashaStriker_BellsOfSuccess_1.wav",
+   "dur": 5.05,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_PashaStriker_BellsOfSuccess_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Bells-of-success-1049425/MA_PashaStriker_BellsOfSuccess_2.wav",
+   "dur": 3.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_PashaStriker_BellsOfSuccess_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Bells-of-success-1049425/MA_PashaStriker_BellsOfSuccess_3.wav",
+   "dur": 3.16,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_PashaStriker_BellsOfSuccess_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Bells-of-success-1049425/MA_PashaStriker_BellsOfSuccess_4.wav",
+   "dur": 4.42,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "flute_notification_6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Flute notifications 7/flute_notification_6.wav",
+   "dur": 1.17,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_OriginalSound_MobileUI_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Mobile-ui-1117130/MA_OriginalSound_MobileUI_1.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_OriginalSound_MobileUI_10.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Mobile-ui-1117130/MA_OriginalSound_MobileUI_10.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_OriginalSound_MobileUI_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Mobile-ui-1117130/MA_OriginalSound_MobileUI_2.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_OriginalSound_MobileUI_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Mobile-ui-1117130/MA_OriginalSound_MobileUI_3.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_OriginalSound_MobileUI_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Mobile-ui-1117130/MA_OriginalSound_MobileUI_4.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_OriginalSound_MobileUI_5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Mobile-ui-1117130/MA_OriginalSound_MobileUI_5.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_OriginalSound_MobileUI_6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Mobile-ui-1117130/MA_OriginalSound_MobileUI_6.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_OriginalSound_MobileUI_7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Mobile-ui-1117130/MA_OriginalSound_MobileUI_7.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_OriginalSound_MobileUI_8.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Mobile-ui-1117130/MA_OriginalSound_MobileUI_8.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_OriginalSound_MobileUI_9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Mobile-ui-1117130/MA_OriginalSound_MobileUI_9.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "notification 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Notifitacion/notification 1.wav",
+   "dur": 1.81,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "notification2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Notifitacion/notification2.wav",
+   "dur": 1.81,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "notification3.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Notifitacion/notification3.mp3",
+   "dur": 4.06,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "notification4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Notifitacion/notification4.wav",
+   "dur": 0.72,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_BANT_Start_Countdown_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Start-countdown/MA_BANT_Start_Countdown_1.wav",
+   "dur": 3.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_BANT_Start_Countdown_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Start-countdown/MA_BANT_Start_Countdown_2.wav",
+   "dur": 6.08,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_BANT_Start_Countdown_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Start-countdown/MA_BANT_Start_Countdown_3.wav",
+   "dur": 6.08,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "MA_BANT_Start_Countdown_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/UI BUTTONS/Start-countdown/MA_BANT_Start_Countdown_4.wav",
+   "dur": 6.34,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 1.wav",
+   "dur": 9.15,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 10.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 10.wav",
+   "dur": 8.01,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 11.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 11.wav",
+   "dur": 5.15,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 12.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 12.wav",
+   "dur": 6.86,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 13.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 13.wav",
+   "dur": 5.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 14.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 14.wav",
+   "dur": 5.15,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 15.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 15.wav",
+   "dur": 3.72,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 16.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 16.wav",
+   "dur": 2.14,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 17.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 17.wav",
+   "dur": 5.86,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 18.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 18.wav",
+   "dur": 1.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 2.wav",
+   "dur": 7.29,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 20.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 20.wav",
+   "dur": 4.43,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 21.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 21.wav",
+   "dur": 2.72,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 22.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 22.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 23.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 23.wav",
+   "dur": 2.25,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 3.wav",
+   "dur": 4.57,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 4.wav",
+   "dur": 0.5,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 5.wav",
+   "dur": 0.5,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 6.wav",
+   "dur": 0.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 7.wav",
+   "dur": 6.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 8.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 8.wav",
+   "dur": 6.8,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "_ Whoosh 9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/_ Whoosh 9.wav",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "cinematic swoosh 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Cinematic-swoosh-790201/cinematic swoosh 1.wav",
+   "dur": 2.18,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "cinematic swoosh 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Cinematic-swoosh-790201/cinematic swoosh 2.wav",
+   "dur": 3.87,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "cinematic swoosh 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Cinematic-swoosh-790201/cinematic swoosh 3.wav",
+   "dur": 2.18,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Human Swoosh Long 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Human Whooshes 25/Human Swoosh Long 2.wav",
+   "dur": 2.29,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Human Swoosh Long.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Human Whooshes 25/Human Swoosh Long.wav",
+   "dur": 1.73,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Human Whistle Long 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Human Whooshes 25/Human Whistle Long 2.wav",
+   "dur": 2.29,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Human Whoosh 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Human Whooshes 25/Human Whoosh 2.wav",
+   "dur": 2.29,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Human Whoosh Fast 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Human Whooshes 25/Human Whoosh Fast 5.wav",
+   "dur": 1.73,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Human Whoosh Fast 7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Human Whooshes 25/Human Whoosh Fast 7.wav",
+   "dur": 2.29,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Human Whoosh Fast 9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Human Whooshes 25/Human Whoosh Fast 9.wav",
+   "dur": 2.29,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Human Whoosh Long.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Human Whooshes 25/Human Whoosh Long.wav",
+   "dur": 1.73,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fire_Whoosh_Movement_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fire_Whoosh_Movement/MA_Floraphonic_Fire_Whoosh_Movement_1.wav",
+   "dur": 0.67,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fire_Whoosh_Movement_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fire_Whoosh_Movement/MA_Floraphonic_Fire_Whoosh_Movement_2.wav",
+   "dur": 0.68,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fire_Whoosh_Movement_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fire_Whoosh_Movement/MA_Floraphonic_Fire_Whoosh_Movement_3.wav",
+   "dur": 3.37,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fire_Whoosh_Movement_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fire_Whoosh_Movement/MA_Floraphonic_Fire_Whoosh_Movement_4.wav",
+   "dur": 1.93,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fire_Whoosh_Movement_Left_To_Right_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fire_Whoosh_Movement/MA_Floraphonic_Fire_Whoosh_Movement_Left_To_Right_1.wav",
+   "dur": 0.49,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fire_Whoosh_Movement_Left_To_Right_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fire_Whoosh_Movement/MA_Floraphonic_Fire_Whoosh_Movement_Left_To_Right_2.wav",
+   "dur": 0.48,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fire_Whoosh_Movement_Left_To_Right_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fire_Whoosh_Movement/MA_Floraphonic_Fire_Whoosh_Movement_Left_To_Right_3.wav",
+   "dur": 2.96,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fire_Whoosh_Movement_Right_To_Left_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fire_Whoosh_Movement/MA_Floraphonic_Fire_Whoosh_Movement_Right_To_Left_1.wav",
+   "dur": 0.62,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fire_Whoosh_Movement_Right_To_Left_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fire_Whoosh_Movement/MA_Floraphonic_Fire_Whoosh_Movement_Right_To_Left_2.wav",
+   "dur": 0.49,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fire_Whoosh_Movement_Right_To_Left_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fire_Whoosh_Movement/MA_Floraphonic_Fire_Whoosh_Movement_Right_To_Left_3.wav",
+   "dur": 2.96,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fireball_Transition_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fireball_Transition/MA_Floraphonic_Fireball_Transition_1.wav",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fireball_Transition_2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fireball_Transition/MA_Floraphonic_Fireball_Transition_2.wav",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fireball_Transition_3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fireball_Transition/MA_Floraphonic_Fireball_Transition_3.wav",
+   "dur": 2.5,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fireball_Transition_4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fireball_Transition/MA_Floraphonic_Fireball_Transition_4.wav",
+   "dur": 2.5,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fireball_Transition_5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fireball_Transition/MA_Floraphonic_Fireball_Transition_5.wav",
+   "dur": 2.5,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "MA_Floraphonic_Fireball_Transition_6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/MA_Floraphonic_Fireball_Transition/MA_Floraphonic_Fireball_Transition_6.wav",
+   "dur": 2.5,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Fast Swish 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Fast Swish 4.wav",
+   "dur": 0.86,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Sci-fi Rising Whoosh.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Sci-fi Rising Whoosh.wav",
+   "dur": 2.15,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Swish Slow.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Swish Slow.wav",
+   "dur": 3.24,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whip Whoosh 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whip Whoosh 3.wav",
+   "dur": 0.47,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whip Whoosh 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whip Whoosh 4.wav",
+   "dur": 0.46,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whip Whoosh.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whip Whoosh.wav",
+   "dur": 0.52,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whistle Fast Ultra 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whistle Fast Ultra 2.wav",
+   "dur": 0.49,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whistle Fast Ultra.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whistle Fast Ultra.wav",
+   "dur": 0.49,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whistle Fast.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whistle Fast.wav",
+   "dur": 0.29,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whoosh Fast 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whoosh Fast 2.wav",
+   "dur": 0.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whoosh Fast 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whoosh Fast 3.wav",
+   "dur": 0.84,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whoosh Fast High.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whoosh Fast High.wav",
+   "dur": 0.34,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whoosh Fast Thud 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whoosh Fast Thud 3.wav",
+   "dur": 0.75,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whoosh Fast Thud 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whoosh Fast Thud 4.wav",
+   "dur": 1.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whoosh Fast Thud.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whoosh Fast Thud.wav",
+   "dur": 1.12,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whoosh Fast.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Whoosh Fast.wav",
+   "dur": 0.52,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Wobble Whoosh 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Wobble Whoosh 2.wav",
+   "dur": 3.45,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Wobble Whoosh 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Wobble Whoosh 3.wav",
+   "dur": 3.45,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Wobble Whoosh 4.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Wobble Whoosh 4.wav",
+   "dur": 3.75,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Wobble Whoosh 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Wobble Whoosh 5.wav",
+   "dur": 4.69,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Wobble Whoosh Fast.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Wobble Whoosh Fast.wav",
+   "dur": 1.44,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Wobble Whoosh High 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Wobble Whoosh High 2.wav",
+   "dur": 3.45,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Wobble Whoosh High.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Wobble Whoosh High.wav",
+   "dur": 3.45,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Wobble Whoosh.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/SFXV2PACK/WHOOSH/Other whooshes 93/Wobble Whoosh.wav",
+   "dur": 3.45,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "Button Click Sound Effect.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Button Click Sound Effect.wav",
+   "dur": 0.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "clickbutton.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/clickbutton.mp3",
+   "dur": 40.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "pop",
+   "fayl": "Cute Pops Sound Effect.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Cute Pops Sound Effect.wav",
+   "dur": 0.71,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "ES_Bubble Effect 03 - Epidemic Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/ES_Bubble Effect 03 - Epidemic Sound.mp3",
+   "dur": 0.52,
+   "litsenziya": "Epidemic Sound (obuna kerak)"
+  },
+  {
+   "rol": "click",
+   "fayl": "ES_Designed, Anime, UI 04 - Epidemic Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/ES_Designed, Anime, UI 04 - Epidemic Sound.mp3",
+   "dur": 7.44,
+   "litsenziya": "Epidemic Sound (obuna kerak)"
+  },
+  {
+   "rol": "click",
+   "fayl": "ES_Notification, Attention, Text, Reveal, Positive 03 - Epidemic Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/ES_Notification, Attention, Text, Reveal, Positive 03 - Epidemic Sound.mp3",
+   "dur": 3.88,
+   "litsenziya": "Epidemic Sound (obuna kerak)"
+  },
+  {
+   "rol": "pop",
+   "fayl": "ES_Pops, Wobble, Bloop, Pops - Epidemic Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/ES_Pops, Wobble, Bloop, Pops - Epidemic Sound.mp3",
+   "dur": 0.25,
+   "litsenziya": "Epidemic Sound (obuna kerak)"
+  },
+  {
+   "rol": "click",
+   "fayl": "ES_Sci Fi Games, UI Menu, Very Short, Open 10 - Epidemic Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/ES_Sci Fi Games, UI Menu, Very Short, Open 10 - Epidemic Sound.mp3",
+   "dur": 2.43,
+   "litsenziya": "Epidemic Sound (obuna kerak)"
+  },
+  {
+   "rol": "click",
+   "fayl": "ES_Select, Soft Round Pluck, Short, Reverb - Epidemic Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/ES_Select, Soft Round Pluck, Short, Reverb - Epidemic Sound.mp3",
+   "dur": 10.04,
+   "litsenziya": "Epidemic Sound (obuna kerak)"
+  },
+  {
+   "rol": "click",
+   "fayl": "ES_Software, Interface, Pop Up, New Message - Epidemic Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/ES_Software, Interface, Pop Up, New Message - Epidemic Sound.mp3",
+   "dur": 3.88,
+   "litsenziya": "Epidemic Sound (obuna kerak)"
+  },
+  {
+   "rol": "click",
+   "fayl": "Futuristic Computer Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Futuristic Computer Sound.mp3",
+   "dur": 4.45,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "Happy Twinkle Sound Effect.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Happy Twinkle Sound Effect.mp3",
+   "dur": 7.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "High Frequency Throws Sound Effect.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/High Frequency Throws Sound Effect.mp3",
+   "dur": 2.47,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "Hitech GUI Sound Effect.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Hitech GUI Sound Effect.mp3",
+   "dur": 9.98,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "Keyboard Space Bar Hit 01.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Keyboard Space Bar Hit 01.mp3",
+   "dur": 3.54,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "ES_Cold, Whoosh 01 - Epidemic Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/magic/ES_Cold, Whoosh 01 - Epidemic Sound.mp3",
+   "dur": 1.87,
+   "litsenziya": "Epidemic Sound (obuna kerak)"
+  },
+  {
+   "rol": "click",
+   "fayl": "magichard.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/magichard.mp3",
+   "dur": 10.69,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "Positive Happy Sound Effect.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Positive Happy Sound Effect.mp3",
+   "dur": 2.04,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "Positive Notification Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Positive Notification Sound.mp3",
+   "dur": 6.93,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "Rounded Ok Button Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Rounded Ok Button Sound.mp3",
+   "dur": 13.31,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "Single Bell Bright Sound Effect.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Single Bell Bright Sound Effect.mp3",
+   "dur": 6.79,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "Smartphone Short 01 Sound Effect.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Smartphone Short 01 Sound Effect.mp3",
+   "dur": 4.27,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "Soft Round Pluck Reverb.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Soft Round Pluck Reverb.mp3",
+   "dur": 10.04,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "Star Sound Effect.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Star Sound Effect.mp3",
+   "dur": 1.19,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "Star Win Gain x6 Sound Effect.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/Star Win Gain x6 Sound Effect.mp3",
+   "dur": 2.36,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "UI Sound Effects - Deny Error Variations.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/UI Sound Effects - Deny Error Variations.mp3",
+   "dur": 2.11,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "UI Sound Effects - Double Click.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/UI Sound Effects - Double Click.mp3",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "UI Sound Effects - Epidemic Sound.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/UI Sound Effects - Epidemic Sound.mp3",
+   "dur": 7.26,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "click",
+   "fayl": "UI Sound Effects - Epidemic Sound2.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/UIs/UI Sound Effects - Epidemic Sound2.mp3",
+   "dur": 9.9,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Backward Whoosh.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Backward Whoosh.wav",
+   "dur": 4.7,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Big Backward Whoosh.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Big Backward Whoosh.wav",
+   "dur": 8.2,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Big Wave Whoosh.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Big Wave Whoosh.wav",
+   "dur": 9.75,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Bird Whoosh 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Bird Whoosh 1.wav",
+   "dur": 5.5,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Bird Whoosh 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Bird Whoosh 2.wav",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Birds Flapping Whoosh.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Birds Flapping Whoosh.wav",
+   "dur": 3.85,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "fast woosh 1@AEstock.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/fast woosh 1@AEstock.wav",
+   "dur": 4.81,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Ray Punch 1 @aestock.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Ray Punch 1 @aestock.mp3",
+   "dur": 1.03,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Short Whoosh (1).wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Short Whoosh (1).wav",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "SWOOSH [BASS] +b -t.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/SWOOSH [BASS] +b -t.wav",
+   "dur": 1.33,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "SWOOSH [BASS].wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/SWOOSH [BASS].wav",
+   "dur": 1.33,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whoosh and Hit (3).wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Whoosh and Hit (3).wav",
+   "dur": 2.62,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whoosh and Hit (3)_1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Whoosh and Hit (3)_1.wav",
+   "dur": 2.62,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whoosh and Hit (4).wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Whoosh and Hit (4).wav",
+   "dur": 2.24,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Whoosh and Hit (5).wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Whoosh and Hit (5).wav",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Wind Whoosh 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Wind Whoosh 1.wav",
+   "dur": 7.38,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Wind Whoosh 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Wind Whoosh 2.wav",
+   "dur": 6.56,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Wind Whoosh 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Wind Whoosh 3.wav",
+   "dur": 11.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "wind woosh 1@AEstock.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/wind woosh 1@AEstock.wav",
+   "dur": 2.01,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "wind woosh 2@AEstock.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/wind woosh 2@AEstock.wav",
+   "dur": 2.36,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "wind woosh 3@AEstock.mp3",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/wind woosh 3@AEstock.mp3",
+   "dur": 2.81,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 1.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 1.wav",
+   "dur": 0.77,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 10.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 10.wav",
+   "dur": 1.74,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 11.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 11.wav",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 12.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 12.wav",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 13.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 13.wav",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 14.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 14.wav",
+   "dur": 1.47,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 15.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 15.wav",
+   "dur": 3.14,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 16.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 16.wav",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 17.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 17.wav",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 18.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 18.wav",
+   "dur": 2.14,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 19.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 19.wav",
+   "dur": 2.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 2.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 2.wav",
+   "dur": 1.6,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 20.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 20.wav",
+   "dur": 6.58,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 3.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 3.wav",
+   "dur": 3.1,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 5.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 5.wav",
+   "dur": 1.6,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 6.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 6.wav",
+   "dur": 1.5,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 7.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 7.wav",
+   "dur": 3.1,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 8.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 8.wav",
+   "dur": 0.31,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Woosh Effect 9.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Woosh Effect 9.wav",
+   "dur": 4.0,
+   "litsenziya": "noma'lum"
+  },
+  {
+   "rol": "whoosh",
+   "fayl": "Zip Whoosh.wav",
+   "yol": "D:/motion uchun/sfx/Asilov's sound effect/Asilov's sound effect/WOOSH/Zip Whoosh.wav",
+   "dur": 4.76,
+   "litsenziya": "noma'lum"
+  }
+ ],
+ "media": [
+  {
+   "vazifa": "reference (ilova/UI namunasi)",
+   "fayl": "2LH4znoDfgc_kA.mp4",
+   "yol": "D:/motion uchun/aplication_reference/2LH4znoDfgc_kA.mp4",
+   "tur": "video",
+   "dur": 16.55,
+   "olcham": "720x1280"
+  },
+  {
+   "vazifa": "reference (ilova/UI namunasi)",
+   "fayl": "SNX7-BPH_dbaPA.mp4",
+   "yol": "D:/motion uchun/aplication_reference/SNX7-BPH_dbaPA.mp4",
+   "tur": "video",
+   "dur": 7.3,
+   "olcham": "720x1278"
+  },
+  {
+   "vazifa": "reference (ilova/UI namunasi)",
+   "fayl": "TDDymFUXkjNRaQ.mp4",
+   "yol": "D:/motion uchun/aplication_reference/TDDymFUXkjNRaQ.mp4",
+   "tur": "video",
+   "dur": 82.88,
+   "olcham": "736x414"
+  },
+  {
+   "vazifa": "reference (ilova/UI namunasi)",
+   "fayl": "VNm6JjZDWUbheg.mp4",
+   "yol": "D:/motion uchun/aplication_reference/VNm6JjZDWUbheg.mp4",
+   "tur": "video",
+   "dur": 17.41,
+   "olcham": "720x1280"
+  },
+  {
+   "vazifa": "reference (ilova/UI namunasi)",
+   "fayl": "VuEd8S0uDr9hDw.mp4",
+   "yol": "D:/motion uchun/aplication_reference/VuEd8S0uDr9hDw.mp4",
+   "tur": "video",
+   "dur": 19.83,
+   "olcham": "720x1280"
+  },
+  {
+   "vazifa": "reference (ilova/UI namunasi)",
+   "fayl": "yvRv6o7xTy7CCg.mp4",
+   "yol": "D:/motion uchun/aplication_reference/yvRv6o7xTy7CCg.mp4",
+   "tur": "video",
+   "dur": 9.92,
+   "olcham": "720x1280"
+  },
+  {
+   "vazifa": "B-roll nomzodi",
+   "fayl": "VID_20260921_151726.mp4",
+   "yol": "D:/motion uchun/eskiz_video/VID_20260921_151726.mp4",
+   "tur": "video",
+   "dur": 18.11,
+   "olcham": "1920x1080"
+  },
+  {
+   "vazifa": "reference (uslub namunasi, montajga qo'yilmaydi)",
+   "fayl": "lkaBnJ62prV8tA.mp4",
+   "yol": "D:/motion uchun/Reels_reference/lkaBnJ62prV8tA.mp4",
+   "tur": "video",
+   "dur": 19.31,
+   "olcham": "720x1280"
+  },
+  {
+   "vazifa": "reference (uslub namunasi, montajga qo'yilmaydi)",
+   "fayl": "nVupB5M2BR0diQ.mp4",
+   "yol": "D:/motion uchun/Reels_reference/nVupB5M2BR0diQ.mp4",
+   "tur": "video",
+   "dur": 7.97,
+   "olcham": "720x1280"
+  },
+  {
+   "vazifa": "reference (uslub namunasi, montajga qo'yilmaydi)",
+   "fayl": "O33IdxJ8F8ytwA.mp4",
+   "yol": "D:/motion uchun/Reels_reference/O33IdxJ8F8ytwA.mp4",
+   "tur": "video",
+   "dur": 45.35,
+   "olcham": "720x1280"
+  },
+  {
+   "vazifa": "reference (uslub namunasi, montajga qo'yilmaydi)",
+   "fayl": "rnfn9aSUWE6uCQ.mp4",
+   "yol": "D:/motion uchun/Reels_reference/rnfn9aSUWE6uCQ.mp4",
+   "tur": "video",
+   "dur": 18.13,
+   "olcham": "720x1280"
+  },
+  {
+   "vazifa": "reference (uslub namunasi, montajga qo'yilmaydi)",
+   "fayl": "scntl4Ly_XvpNw.mp4",
+   "yol": "D:/motion uchun/Reels_reference/scntl4Ly_XvpNw.mp4",
+   "tur": "video",
+   "dur": 17.87,
+   "olcham": "720x1280"
+  },
+  {
+   "vazifa": "reference (uslub namunasi, montajga qo'yilmaydi)",
+   "fayl": "svJ841geA8x9NQ.mp4",
+   "yol": "D:/motion uchun/Reels_reference/svJ841geA8x9NQ.mp4",
+   "tur": "video",
+   "dur": 19.11,
+   "olcham": "720x1280"
+  },
+  {
+   "vazifa": "reference (uslub namunasi, montajga qo'yilmaydi)",
+   "fayl": "utRzgKLRTLsilQ.mp4",
+   "yol": "D:/motion uchun/Reels_reference/utRzgKLRTLsilQ.mp4",
+   "tur": "video",
+   "dur": 77.65,
+   "olcham": "720x1280"
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-02.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-02.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-17.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-17.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-18.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-18.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-19.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-19.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-20.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-20.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-25.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-25.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-27.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-27.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-28.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-28.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-29.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-29.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-31.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-31.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-32.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-32.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-34 (2).jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-34 (2).jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-34.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-34.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-37.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-37.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-39.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-39.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-40.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-40.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-41 (2).jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-41 (2).jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "photo_2026-10-23_15-49-41.jpg",
+   "yol": "D:/motion uchun/sarpo/photo_2026-10-23_15-49-41.jpg",
+   "tur": "rasm",
+   "dur": 0,
+   "olcham": ""
+  },
+  {
+   "vazifa": "B-roll nomzodi (rasm)",
+   "fayl": "video_2026-10-23_15-49-10.mp4",
+   "yol": "D:/motion uchun/sarpo/video_2026-10-23_15-49-10.mp4",
+   "tur": "video",
+   "dur": 29.47,
+   "olcham": "352x640"
+  }
+ ]
+}

@@ -1,2 +1,13 @@
 ﻿videolar/
 tahlil/
+
+# montaj (reels-montaj skill)
+.env
+models/
+xom/
+tayyor/
+broll/
+node_modules/
+public/
+.venv/
+montaj/
