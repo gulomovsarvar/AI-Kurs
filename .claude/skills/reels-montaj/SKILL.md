@@ -96,8 +96,9 @@ Transkriptni o'qib, vaqtlarni **soniyada** `words.json` dagi so'zlarga bog'lab y
 - Hook (birinchi 0,5 s): `katta` savol yoki raqam hisoblagich.
 - Kinetik matn turlari: `katta`, `plashka`, `hisob`, `royxat`, `eski-yangi`, `arvoh`. `y` bilan joyini o'zgartir — **yuzni to'smasin**: avval kontakt-varaqda yuz qayerdaligini ko'r (to'liq bo'y kadrda odatda y 900–1100).
 - **B-roll tartibi**:
-  1. Avval `motion/KATALOG.md` → "B-roll nomzodi" qatorlaridan **mazmuni** gapga mosini tanla ("Mazmuni" ustuni; noaniq bo'lsa kontakt-varaq yasab ko'r). Faylni `montaj\public\broll\` ga nusxala, `kind: "video"` / `"image"`.
-  2. Mos klip bo'lmasa — **zaxira**: `kind: "grafik"` (qora gradient + grid + katta laym so'z).
+  1. Avval `motion/KATALOG.md` → "B-roll nomzodi" qatorlaridan **videoning umumiy mavzusiga** mosini qidir (bitta so'zga emas: "kasb" so'zi bor deb ta'lim videosiga tikuvchilik andozasini qo'yma). Klip shu videoning mavzusini to'g'ridan-to'g'ri ko'rsatishi kerak.
+     KATALOG dagi kliplar **boshqa loyihalardan** — ishlatishdan oldin foydalanuvchidan **so'ra** (AskUserQuestion: qaysi gapga qaysi klip). Tasdiqlansa, `montaj\public\broll\` ga nusxala, `kind: "video"` / `"image"`.
+  2. Mos klip bo'lmasa yoki foydalanuvchi rad etsa — B-roll'ni majburlama: spiker kadri + kinetik matn qolsin. Kerak bo'lsa **zaxira**: `kind: "grafik"` (qora gradient + grid + katta laym so'z).
   3. Yangi klipni ko'rib chiqqach, mazmunini `motion/broll_tavsif.json` ga yoz va `python -I motion\katalog.py "D:/motion uchun"` ni qayta ishga tushir.
 - **Obuna kartochkasi**: foydalanuvchi username bermagan bo'lsa `"username": "@USERNAME"` qo'y va javobda "o'zingiznikiga almashtiring" deb eslat.
 - Brend tasvirlarini (birovning logotipi, mashhur OS fonlari) nusxalama.
