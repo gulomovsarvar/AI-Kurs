@@ -6,6 +6,7 @@ AI agentlar qurish va bizneslarni avtomatlashtirishni noldan o'rganish.
 ## O'rganilganlar
 - [x] 1-dars: LLM, token, kontekst, prompt formulasi
 - [x] 2-dars: Fayllar va Markdown
+- [ ] 3-dars: Git
 
 ## Muhim qoida
 **Modelning xotirasi yo'q.** Har safar butun suhbat qayta yuboriladi.
