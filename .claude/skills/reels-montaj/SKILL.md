@@ -102,7 +102,22 @@ Transkriptni o'qib, vaqtlarni **soniyada** `words.json` dagi so'zlarga bog'lab y
   3. Yangi klipni ko'rib chiqqach, mazmunini `motion/broll_tavsif.json` ga yoz va `python -I motion\katalog.py "D:/motion uchun"` ni qayta ishga tushir.
 - **Obuna kartochkasi**: foydalanuvchi username bermagan bo'lsa `"username": "@USERNAME"` qo'y va javobda "o'zingiznikiga almashtiring" deb eslat.
 - Brend tasvirlarini (birovning logotipi, mashhur OS fonlari) nusxalama.
-- **"orqada" (katta so'z odam orqasida)** — hali qilinmagan, odamni fondan ajratish (matting) kerak. Rejalashtirilgan yo'l: Robust Video Matting (ONNX, CPU) bilan `public/person.webm` (alfa kanalli) yasash → Remotion'da qatlamlar: talk.mp4 → katta so'z → person.webm (bir xil punch-in bilan). Tasdiqlanmaguncha `arvoh` (xira katta so'z) ishlatiladi.
+- **`orqada`** — katta so'z odam orqasida (bosh/soch/yelka so'zni qisman to'sadi). Rejada: `{ "at": 1.48, "out": 2.56, "type": "orqada", "main": "KASB", "rang": "laym" }` — `y` yozma, balandlik avtomatik (bosh tepasi va yelka orasi, `ORQADA_CENTER`). Plan yozilgach **albatta** ishga tushir:
+  ```powershell
+  .venv\Scripts\python "$S\scripts\orqada.py" --loyiha montaj
+  ```
+  - RobustVideoMatting (ONNX, `models\rvm\`, yo'q bo'lsa o'zi yuklaydi); CUDA bo'lsa GPU, bo'lmasa CPU (~0,4 s/kadr).
+  - Faqat `orqada` oraliqlari hisoblanadi (+0,5 s isinish, kontur barqaror bo'lishi uchun) → `public\orqada\<kalit>\*.png` + `public\orqada.json`.
+  - Kesh: kalit = talk.mp4 mazmuni + oraliq + model; o'zgarmagan bo'lsa "keshdan" deydi. `tayyorla.py` qayta ishlasa yoki oraliq vaqti o'zgarsa — qayta hisoblanadi.
+  - Qatlamlar: asl video → orqada so'zi → faqat odam (alfa, bir xil punch-in va rang filtri) → boshqa matnlar.
+  - Tekshiruv: oraliqdan 4 ta still, soch chekkasini 3x kattalashtirib ko'r (yashil "halo" yoki kesilgan soch bo'lmasin).
+  - Yaqin plan (bosh katta) kadrda effekt kuchliroq; to'liq bo'y kadrda faqat so'z o'rtasi to'siladi.
+
+## 3b. orqada niqoblari (faqat ekspert-motion, plan.json da "orqada" bo'lsa)
+```powershell
+.venvScriptspython "$Sscriptsorqada.py" --loyiha montaj
+```
+Yo'q bo'lsa ham ishlatish xavfsiz: bo'sh `orqada.json` yozadi.
 
 ## 4. SFX (ikkala format)
 - Manba: `motion/KATALOG.md` (rollar: whoosh, pop, click, typing, tick, riser, glitch...). Katalog yo'q yoki eskirgan bo'lsa: `python -I motion\katalog.py "D:/motion uchun"`.

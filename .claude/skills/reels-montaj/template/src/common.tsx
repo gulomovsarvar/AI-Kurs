@@ -3,7 +3,7 @@ import React from "react";
 import { Audio } from "@remotion/media";
 import { AbsoluteFill, CalculateMetadataFunction, Sequence, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
 import { C, FPS, font, fontCond, sec } from "./tokens";
-import type { Meta, Plan, ReelProps, Sfx, Word } from "./types";
+import type { Meta, OrqadaInfo, Plan, ReelProps, Sfx, Word } from "./types";
 
 const getJson = async <T,>(name: string, fallback: T): Promise<T> => {
   try {
@@ -21,7 +21,8 @@ export const loadReel: CalculateMetadataFunction<ReelProps> = async () => {
   if (!meta) throw new Error("public/meta.json topilmadi. Avval: python scripts/tayyorla.py --kirish <video> --loyiha <montaj papka>");
   const captions = await getJson<Word[][]>("captions.json", []);
   const plan = await getJson<Plan | null>("plan.json", null);
-  return { durationInFrames: Math.max(1, Math.round(meta.duration * FPS)), props: { meta, captions, plan } };
+  const orqada = await getJson<OrqadaInfo[]>("orqada.json", []);
+  return { durationInFrames: Math.max(1, Math.round(meta.duration * FPS)), props: { meta, captions, plan, orqada } };
 };
 
 // So'zma-so'z subtitr: aytilgan so'z yorqin, keyingisi xira.

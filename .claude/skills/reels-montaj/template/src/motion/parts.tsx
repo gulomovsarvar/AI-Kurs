@@ -9,8 +9,8 @@ import { fitText } from "@remotion/layout-utils";
 import { AbsoluteFill, Img, Sequence, continueRender, delayRender, interpolate, staticFile, useCurrentFrame } from "remotion";
 import { Between } from "../common";
 import { Reveal, lerp, useIn, useOut, useTween } from "../kit";
-import { BIG_WIDTH, C, COUNTER_HOLD, SHADOW, SUB_MIN, SUB_SIZE, W, font, fontCond, fontCondLoader, sec } from "../tokens";
-import type { BRoll, Kinetic } from "../types";
+import { BIG_WIDTH, C, COUNTER_HOLD, H, ORQADA_CENTER, PUNCH_ORIGIN_Y, SHADOW, SUB_MIN, SUB_SIZE, W, font, fontCond, fontCondLoader, sec } from "../tokens";
+import type { BRoll, Kinetic, OrqadaInfo } from "../types";
 
 const BIG = { fontFamily: fontCond, fontWeight: 700, textTransform: "uppercase" as const, lineHeight: 0.95, letterSpacing: "0.005em" };
 const SMALL = { fontFamily: font, fontWeight: 500, letterSpacing: "-0.01em" };
@@ -158,7 +158,7 @@ const KineticItem: React.FC<{ k: Kinetic; out: number }> = ({ k, out }) => {
 
 export const KineticLayer: React.FC<{ list?: Kinetic[] }> = ({ list = [] }) => (
   <>
-    {list.map((k, i) => {
+    {list.filter((k) => k.type !== "orqada").map((k, i) => {
       const out = k.type === "hisob" ? counterTimes(k).out : k.out;
       return (
         <Between key={i} a={k.at} b={out}>
@@ -166,6 +166,54 @@ export const KineticLayer: React.FC<{ list?: Kinetic[] }> = ({ list = [] }) => (
         </Between>
       );
     })}
+  </>
+);
+
+// ---- "orqada": katta so'z odam orqasida ----
+// Qatlamlar (EkspertMotion): asl video -> OrqadaWordLayer -> PersonLayer (faqat odam, alfa) -> boshqa matnlar
+const findInfo = (k: Kinetic, infos: OrqadaInfo[]) => infos.find((o) => Math.abs(o.at - k.at) < 0.02 && Math.abs(o.out - k.out) < 0.02);
+// manba pikselidagi y ni punch-in dan keyingi ekran y siga o'tkazish
+const punchY = (y: number, zoom: number) => H * PUNCH_ORIGIN_Y + (y - H * PUNCH_ORIGIN_Y) * zoom;
+
+const OrqadaWord: React.FC<{ k: Kinetic; info?: OrqadaInfo; zoom: number }> = ({ k, info, zoom }) => {
+  const o = useOut(k.out - FADE, FADE);
+  // y: plan da berilgan bo'lsa shu, aks holda bosh va yelka orasidan avtomatik
+  const centerY = k.y ?? (info ? punchY(info.headTop + (info.shoulderY - info.headTop) * ORQADA_CENTER, zoom) : 560);
+  return (
+    <div style={{ position: "absolute", left: 0, right: 0, top: centerY, transform: "translateY(-50%)", display: "flex", flexDirection: "column", alignItems: "center", opacity: 1 - o, filter: o > 0.05 ? `blur(${o * 18}px)` : undefined }}>
+      <Reveal at={k.at} y={40} blur={24} from={0.85}>
+        <BigWord text={k.main ?? ""} color={k.rang === "laym" ? C.accent : C.white} />
+      </Reveal>
+    </div>
+  );
+};
+
+export const OrqadaWordLayer: React.FC<{ list?: Kinetic[]; infos: OrqadaInfo[]; zoom: number }> = ({ list = [], infos, zoom }) => (
+  <>
+    {list
+      .filter((k) => k.type === "orqada")
+      .map((k, i) => (
+        <Between key={i} a={k.at} b={k.out}>
+          <OrqadaWord k={k} info={findInfo(k, infos)} zoom={zoom} />
+        </Between>
+      ))}
+  </>
+);
+
+// Faqat odam: orqada.py yasagan RGBA kadrlar, asl video bilan bir xil punch-in transformatsiyasi ichida chiziladi
+const PersonFrames: React.FC<{ info: OrqadaInfo }> = ({ info }) => {
+  const f = useCurrentFrame();
+  const idx = Math.max(0, Math.min(info.frames - 1, f - sec(info.start)));
+  return <Img src={staticFile(`${info.dir}/${String(idx + 1).padStart(4, "0")}.png`)} style={{ position: "absolute", inset: 0, width: "100%", height: "100%" }} />;
+};
+
+export const PersonLayer: React.FC<{ infos: OrqadaInfo[] }> = ({ infos }) => (
+  <>
+    {infos.map((info, i) => (
+      <Between key={i} a={info.at} b={info.out}>
+        <PersonFrames info={info} />
+      </Between>
+    ))}
   </>
 );
 

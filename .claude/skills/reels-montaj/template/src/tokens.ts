@@ -35,6 +35,9 @@ export const fontCond = fontCondLoader.fontFamily;
 export const BIG_WIDTH = 0.82; // "katta" so'z ekran kengligining 70-90% i (maqsad 82%)
 export const SUB_MIN = 42; // yordamchi so'zlar: KO'RINADIGAN harf balandligi kamida 42px (shrift o'lchami emas!)
 export const SUB_SIZE = 62; // Oswald katta harf: o'lchandi — 58px da "HAM" 42px edi, 62px da ~45px
+export const PUNCH_ORIGIN_Y = 0.38; // punch-in markazi (kadr balandligining ulushi)
+// orqada: so'z markazi bosh tepasi va yelka orasida, yelkaga yaqin (0 = bosh tepasi, 1 = yelka)
+export const ORQADA_CENTER = 0.72;
 export const COUNTER_HOLD = 0.8; // hisoblagich oxirgi qiymatda kamida 0,8 s turadi
 
 export const sec = (s: number) => Math.round(s * FPS);

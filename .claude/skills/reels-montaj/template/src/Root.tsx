@@ -8,7 +8,7 @@ import type { ReelProps } from "./types";
 
 // Ikki format, bitta ma'lumot manbasi (public/meta.json, captions.json, plan.json).
 // durationInFrames bu yerda vaqtinchalik: haqiqiysini loadReel kirish videosidan hisoblaydi.
-const defaults: ReelProps = { meta: { duration: 1, talk: "talk.mp4" }, captions: [], plan: null };
+const defaults: ReelProps = { meta: { duration: 1, talk: "talk.mp4" }, captions: [], plan: null, orqada: [] };
 
 export const RemotionRoot: React.FC = () => (
   <>

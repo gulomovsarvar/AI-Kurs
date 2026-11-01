@@ -33,7 +33,7 @@ export type TutorialPlan = {
 export type Kinetic = {
   at: number;
   out: number;
-  type: "katta" | "plashka" | "hisob" | "royxat" | "eski-yangi" | "arvoh"; // katta: har gapda bitta, ekran enining ~82%; plashka: ikkinchi darajali
+  type: "katta" | "plashka" | "hisob" | "royxat" | "eski-yangi" | "arvoh" | "orqada"; // katta: har gapda bitta, ekran enining ~82%; plashka: ikkinchi darajali; orqada: katta so'z odam orqasida (orqada.py kerak)
   main?: string; // kalit so'z (katta)
   sub?: string; // yordamchi so'z (kichik)
   from?: number; // hisob: boshlang'ich son
@@ -59,4 +59,7 @@ export type MotionPlan = {
 
 export type Plan = TutorialPlan | MotionPlan;
 
-export type ReelProps = { meta: Meta; captions: Word[][]; plan: Plan | null };
+// orqada.py yozadi (public/orqada.json): odam niqobi kadrlari va bosh/yelka balandligi (manba pikselida, punch-in siz)
+export type OrqadaInfo = { at: number; out: number; start: number; frames: number; dir: string; headTop: number; shoulderY: number; cx: number; headW: number };
+
+export type ReelProps = { meta: Meta; captions: Word[][]; plan: Plan | null; orqada: OrqadaInfo[] };
