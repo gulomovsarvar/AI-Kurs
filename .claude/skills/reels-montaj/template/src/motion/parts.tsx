@@ -9,13 +9,15 @@ import { fitText } from "@remotion/layout-utils";
 import { AbsoluteFill, Img, Sequence, continueRender, delayRender, interpolate, staticFile, useCurrentFrame } from "remotion";
 import { Between } from "../common";
 import { Reveal, lerp, useIn, useOut, useTween } from "../kit";
-import { BIG_WIDTH, C, COUNTER_HOLD, SHADOW, SUB_MIN, W, font, fontCond, fontCondLoader, sec } from "../tokens";
+import { BIG_WIDTH, C, COUNTER_HOLD, SHADOW, SUB_MIN, SUB_SIZE, W, font, fontCond, fontCondLoader, sec } from "../tokens";
 import type { BRoll, Kinetic } from "../types";
 
 const BIG = { fontFamily: fontCond, fontWeight: 700, textTransform: "uppercase" as const, lineHeight: 0.95, letterSpacing: "0.005em" };
 const SMALL = { fontFamily: font, fontWeight: 500, letterSpacing: "-0.01em" };
 const shadow = "0 6px 30px rgba(0,0,0,0.45)";
-const SUB = Math.max(SUB_MIN, 46);
+// Yordamchi so'z uslubi: condensed, katta harf, ingichka (400) — katta so'zdan (700) og'irligi bilan ajralib turadi.
+// Kichik harfli Inter 46px ekranda ~24px ko'rinardi; endi harf balandligi >= SUB_MIN.
+const SUBSTYLE: React.CSSProperties = { fontFamily: fontCond, fontWeight: 400, textTransform: "uppercase", letterSpacing: "0.04em", fontSize: Math.max(SUB_SIZE, Math.ceil(SUB_MIN / 0.81)), lineHeight: 1 };
 
 // Matnni berilgan kenglikka sig'diradigan shrift o'lchami. Shrift yuklanmaguncha render kutadi (delayRender),
 // aks holda fitText zaxira shrift bilan noto'g'ri o'lchaydi.
@@ -86,7 +88,7 @@ const KineticItem: React.FC<{ k: Kinetic; out: number }> = ({ k, out }) => {
   const swap = useIn(k.at + 0.7, 0.4); // faqat eski-yangi uchun; hook shartsiz chaqiriladi
   const box: React.CSSProperties = { position: "absolute", left: 0, right: 0, top: y, display: "flex", flexDirection: "column", alignItems: "center", textAlign: "center", opacity: 1 - o, filter: o > 0.05 ? `blur(${o * 18}px)` : undefined };
   const sub = k.sub ? (
-    <Reveal at={k.at + 0.15} y={16} blur={10} style={{ ...SMALL, fontWeight: 600, fontSize: SUB, color: C.white, textShadow: shadow, marginBottom: 10 }}>
+    <Reveal at={k.at + 0.15} y={16} blur={10} style={{ ...SUBSTYLE, color: C.white, textShadow: shadow, marginBottom: 14 }}>
       {k.sub}
     </Reveal>
   ) : null;
@@ -203,7 +205,7 @@ const BRollItem: React.FC<{ b: BRoll }> = ({ b }) => {
       {b.kind === "grafik" && b.main ? (
         <div style={{ position: "absolute", left: 0, right: 0, top: 700, display: "flex", flexDirection: "column", alignItems: "center" }}>
           {b.sub ? (
-            <Reveal at={b.a + 0.1} y={16} blur={10} style={{ ...SMALL, fontWeight: 600, fontSize: SUB, color: C.white, marginBottom: 18 }}>
+            <Reveal at={b.a + 0.1} y={16} blur={10} style={{ ...SUBSTYLE, color: C.white, marginBottom: 18 }}>
               {b.sub}
             </Reveal>
           ) : null}

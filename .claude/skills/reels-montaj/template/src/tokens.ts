@@ -33,7 +33,8 @@ export const fontCond = fontCondLoader.fontFamily;
 
 // Ierarxiya qoidalari (motion-uslub.md + foydalanuvchi tahlili)
 export const BIG_WIDTH = 0.82; // "katta" so'z ekran kengligining 70-90% i (maqsad 82%)
-export const SUB_MIN = 42; // yordamchi so'zlar kamida 42px
+export const SUB_MIN = 42; // yordamchi so'zlar: KO'RINADIGAN harf balandligi kamida 42px (shrift o'lchami emas!)
+export const SUB_SIZE = 62; // Oswald katta harf: o'lchandi — 58px da "HAM" 42px edi, 62px da ~45px
 export const COUNTER_HOLD = 0.8; // hisoblagich oxirgi qiymatda kamida 0,8 s turadi
 
 export const sec = (s: number) => Math.round(s * FPS);

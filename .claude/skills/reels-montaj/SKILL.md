@@ -91,7 +91,7 @@ Transkriptni o'qib, vaqtlarni **soniyada** `words.json` dagi so'zlarga bog'lab y
 - **Ierarxiya** (eng muhim qoida):
   - Har gapda **bitta `katta`** so'z: avtomatik ekran kengligining ~82% iga moslanadi (70–90%), qalin condensed, `"rang": "oq"` (default) yoki `"laym"`. Qisqa so'z ham to'liq kenglikni egallaydi.
   - `plashka` — faqat **ikkinchi darajali** kalit so'zlar (bitta gapda katta so'zdan keyin).
-  - `sub` (yordamchi so'zlar) kod tomonidan kamida 42px (`SUB_MIN`), hozir 46px.
+  - `sub` (yordamchi so'zlar): **ko'rinadigan harf balandligi** kamida 42px (`SUB_MIN`). Shrift o'lchami bilan adashtirma — kichik harfli Inter 46px ekranda ~24px ko'rinadi. Shuning uchun sub: Oswald 400, katta harf, 62px (`SUB_SIZE`) → harf balandligi ~45px. Tekshiruv: to'liq o'lchamdagi still'da harf qatorini piksel bilan o'lcha.
 - **Hisoblagich** (`hisob`): sanash 0,4–1,2 s, keyin oxirgi qiymatda **kamida 0,8 s** turadi, keyin yo'qoladi. `out - at` kamida 1,5 s bo'lsin; qisqa bo'lsa kod `out` ni o'zi uzaytiradi (keyingi matn bilan ustma-ust tushmasligini tekshir). Eni oxirgi qiymat bo'yicha moslanadi.
 - Hook (birinchi 0,5 s): `katta` savol yoki raqam hisoblagich.
 - Kinetik matn turlari: `katta`, `plashka`, `hisob`, `royxat`, `eski-yangi`, `arvoh`. `y` bilan joyini o'zgartir — **yuzni to'smasin**: avval kontakt-varaqda yuz qayerdaligini ko'r (to'liq bo'y kadrda odatda y 900–1100).
